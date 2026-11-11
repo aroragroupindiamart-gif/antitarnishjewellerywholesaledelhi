@@ -62,6 +62,9 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
+  verification: {
+    google: "PgRxVxShTuNxyeXp9jpm9N0Ht9iUoeTDxxXJjWOXcmg",
+  },
 };
 
 export default function RootLayout({
@@ -81,6 +84,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <meta name="google-site-verification" content="PgRxVxShTuNxyeXp9jpm9N0Ht9iUoeTDxxXJjWOXcmg" />
         <meta name="geo.region" content="IN-DL" />
         <meta name="geo.placename" content="New Delhi" />
         <meta name="geo.position" content="28.6469;77.1122" />
