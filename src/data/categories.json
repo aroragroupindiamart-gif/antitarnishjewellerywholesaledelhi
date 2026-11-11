@@ -12,8 +12,12 @@
     "tier2Price": 42,
     "masterPrice": 36,
     "mrpRange": "₹299 - ₹699",
-    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80",
-    "topKeywords": ["anti tarnish rings wholesale delhi", "waterproof rings sadar bazar", "316l steel rings bulk supplier delhi"]
+    "image": "https://chatcart.in/api/public/img/uploads/2cdcf5c7-1389-4c74-b206-7342476019ab",
+    "topKeywords": [
+      "anti tarnish rings wholesale delhi",
+      "waterproof rings sadar bazar",
+      "316l steel rings bulk supplier delhi"
+    ]
   },
   {
     "id": "necklaces-chains",
@@ -28,8 +32,12 @@
     "tier2Price": 78,
     "masterPrice": 65,
     "mrpRange": "₹499 - ₹1,299",
-    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80",
-    "topKeywords": ["anti tarnish necklaces wholesale delhi", "pvd gold chains sadar bazar", "layered waterproof necklaces bulk"]
+    "image": "https://chatcart.in/api/public/img/uploads/b89dadd1-5b50-46b6-80b4-f5978b78d23b",
+    "topKeywords": [
+      "anti tarnish necklaces wholesale delhi",
+      "pvd gold chains sadar bazar",
+      "layered waterproof necklaces bulk"
+    ]
   },
   {
     "id": "earrings-hoops",
@@ -44,8 +52,12 @@
     "tier2Price": 49,
     "masterPrice": 39,
     "mrpRange": "₹349 - ₹899",
-    "image": "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=800&q=80",
-    "topKeywords": ["chunky hoops wholesale delhi", "waterproof earrings rui mandi", "anti tarnish huggies bulk supplier"]
+    "image": "https://chatcart.in/api/public/img/uploads/27b7c492-8263-498b-b24a-aa8bcbb4ed27",
+    "topKeywords": [
+      "chunky hoops wholesale delhi",
+      "waterproof earrings rui mandi",
+      "anti tarnish huggies bulk supplier"
+    ]
   },
   {
     "id": "bracelets-kada",
@@ -60,8 +72,12 @@
     "tier2Price": 105,
     "masterPrice": 89,
     "mrpRange": "₹699 - ₹1,899",
-    "image": "https://images.unsplash.com/photo-1611591475871-34f71a9b407b?auto=format&fit=crop&w=800&q=80",
-    "topKeywords": ["anti tarnish bracelets wholesale delhi", "tennis bracelet bulk sadar bazar", "pvd kada importer delhi"]
+    "image": "https://chatcart.in/api/public/img/uploads/a5ecb472-799f-4390-8e6f-175110d77200",
+    "topKeywords": [
+      "anti tarnish bracelets wholesale delhi",
+      "tennis bracelet bulk sadar bazar",
+      "pvd kada importer delhi"
+    ]
   },
   {
     "id": "pendants",
@@ -76,8 +92,12 @@
     "tier2Price": 55,
     "masterPrice": 46,
     "mrpRange": "₹399 - ₹999",
-    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80",
-    "topKeywords": ["anti tarnish pendants wholesale delhi", "zircon locket sadar bazar", "vintage coin pendant bulk"]
+    "image": "https://chatcart.in/api/public/img/uploads/a3184599-4d22-4dbb-acc0-b8e6bab2a5b8",
+    "topKeywords": [
+      "anti tarnish pendants wholesale delhi",
+      "zircon locket sadar bazar",
+      "vintage coin pendant bulk"
+    ]
   },
   {
     "id": "korean-minimalist",
@@ -92,8 +112,12 @@
     "tier2Price": 47,
     "masterPrice": 39,
     "mrpRange": "₹349 - ₹799",
-    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=800&q=80",
-    "topKeywords": ["korean jewellery wholesale delhi", "korean anti tarnish sadar bazar", "aesthetic jewellery supplier delhi"]
+    "image": "https://chatcart.in/api/public/img/uploads/4a1695d2-d12f-4fe6-b68e-1026af5457cb",
+    "topKeywords": [
+      "korean jewellery wholesale delhi",
+      "korean anti tarnish sadar bazar",
+      "aesthetic jewellery supplier delhi"
+    ]
   },
   {
     "id": "mens-jewellery",
@@ -109,7 +133,11 @@
     "masterPrice": 72,
     "mrpRange": "₹599 - ₹1,499",
     "image": "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?auto=format&fit=crop&w=800&q=80",
-    "topKeywords": ["mens jewellery wholesale delhi", "cuban chain bulk sadar bazar", "mens kada 316l steel delhi"]
+    "topKeywords": [
+      "mens jewellery wholesale delhi",
+      "cuban chain bulk sadar bazar",
+      "mens kada 316l steel delhi"
+    ]
   },
   {
     "id": "evil-eye-charms",
@@ -125,6 +153,10 @@
     "masterPrice": 52,
     "mrpRange": "₹449 - ₹1,099",
     "image": "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?auto=format&fit=crop&w=800&q=80",
-    "topKeywords": ["evil eye jewellery wholesale delhi", "evil eye bracelet bulk rui mandi", "nazar charm jewellery delhi"]
+    "topKeywords": [
+      "evil eye jewellery wholesale delhi",
+      "evil eye bracelet bulk rui mandi",
+      "nazar charm jewellery delhi"
+    ]
   }
 ]

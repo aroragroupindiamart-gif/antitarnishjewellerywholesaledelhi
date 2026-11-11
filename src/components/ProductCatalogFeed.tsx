@@ -9,17 +9,22 @@ interface ProductCatalogFeedProps {
   products: Product[];
   categoryName?: string;
   locationName?: string;
+  // Total catalogue size for the banner (homepage passes the full count
+  // while only rendering a slice of the grid).
+  totalCount?: number;
 }
 
 export default function ProductCatalogFeed({
   products,
   categoryName = "Anti-Tarnish Jewellery",
   locationName = "Delhi NCR",
+  totalCount,
 }: ProductCatalogFeedProps) {
   const [showPrices, setShowPrices] = useState(true);
   const [selectedTag, setSelectedTag] = useState<string>("all");
 
-  const tags = ["all", "under-49", "under-99", "waterproof", "bestseller"];
+  // No "bestseller" filter: the real catalogue has no sales data to rank by.
+  const tags = ["all", "under-49", "under-99", "waterproof"];
 
   const filteredProducts = products.filter((p) => {
     if (selectedTag === "all") return true;
@@ -93,7 +98,7 @@ export default function ProductCatalogFeed({
                 </div>
                 <div className="absolute top-2 right-2 bg-white/95 text-emerald-800 text-[10px] font-semibold px-2 py-0.5 rounded-full shadow border border-emerald-100 flex items-center gap-1">
                   <ShieldCheck className="w-3 h-3 text-emerald-600" />
-                  316L / PVD
+                  {product.materialShort}
                 </div>
               </div>
 
@@ -127,14 +132,16 @@ export default function ProductCatalogFeed({
                       </div>
                     </div>
 
-                    <div className="text-right">
-                      <span className="text-[10px] uppercase text-gray-400 font-semibold block leading-none">
-                        Retail MRP
-                      </span>
-                      <span className="text-xs sm:text-sm font-semibold text-gray-500 line-through mt-1 block">
-                        ₹{product.mrp}
-                      </span>
-                    </div>
+                    {product.mrp ? (
+                      <div className="text-right">
+                        <span className="text-[10px] uppercase text-gray-400 font-semibold block leading-none">
+                          Retail MRP
+                        </span>
+                        <span className="text-xs sm:text-sm font-semibold text-gray-500 line-through mt-1 block">
+                          ₹{product.mrp}
+                        </span>
+                      </div>
+                    ) : null}
                   </div>
 
                   <a
@@ -157,7 +164,7 @@ export default function ProductCatalogFeed({
       <div className="mt-10 bg-gradient-to-r from-emerald-900 via-emerald-850 to-emerald-950 rounded-2xl p-6 sm:p-8 text-white flex flex-col md:flex-row items-center justify-between gap-6 shadow-xl border border-emerald-700">
         <div className="max-w-xl text-center md:text-left">
           <span className="text-xs font-bold uppercase tracking-wider text-gold-400">
-            1,000+ Ready Designs In Stock
+            {totalCount ?? products.length} Ready Designs In Stock
           </span>
           <h3 className="text-xl sm:text-2xl font-bold mt-1 text-white">
             Need Full B2B PDF Catalog with Wholesale Price List?

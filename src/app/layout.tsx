@@ -4,6 +4,7 @@ import GlobalHeader from "@/components/GlobalHeader";
 import GlobalFooter from "@/components/GlobalFooter";
 import WhatsAppFloatingCTA from "@/components/WhatsAppFloatingCTA";
 import { JsonLdScript, generateWholesaleSchema } from "@/components/SEO/JsonLd";
+import storeData from "@/data/store.json";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://antitarnishjewellerywholesaledelhi.com"),
@@ -30,6 +31,9 @@ export const metadata: Metadata = {
     telephone: true,
     address: true,
   },
+  icons: {
+    icon: storeData.logoUrl,
+  },
   openGraph: {
     title: "Wholesale Anti Tarnish Jewellery Delhi | Arora Group Wholesale",
     description:
@@ -38,9 +42,9 @@ export const metadata: Metadata = {
     siteName: "Arora Group Wholesale Delhi Anti-Tarnish Hub",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=1200&h=630&q=80",
-        width: 1200,
-        height: 630,
+        url: storeData.logoUrl,
+        width: 500,
+        height: 500,
         alt: "Arora Group Wholesale Anti Tarnish Jewellery Delhi",
       },
     ],

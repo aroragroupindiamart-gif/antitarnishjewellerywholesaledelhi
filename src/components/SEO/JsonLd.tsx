@@ -1,4 +1,5 @@
 import React from 'react';
+import storeData from "@/data/store.json";
 
 interface WholesaleSchemaProps {
   category?: string;
@@ -22,8 +23,8 @@ export function generateWholesaleSchema({
     "headline": pageTitle || `Wholesale Anti-Tarnish ${category} in ${location}, Delhi`,
     "description": pageDescription || `Direct factory importer of 316L anti-tarnish waterproof ${category.toLowerCase()} in Delhi NCR. Low ₹3,000 MOV and zero item MOQ.`,
     "url": `https://antitarnishjewellerywholesaledelhi.com${urlPath}`,
-    "logo": "https://www.aroragroupwholesale.com/arora-group-logo.png",
-    "image": "https://antitarnishjewellerywholesaledelhi.com/og-image.jpg",
+    "logo": storeData.logoUrl,
+    "image": storeData.logoUrl,
     "telephone": "+91-8368484361",
     "priceRange": "₹45 - ₹450",
     "currenciesAccepted": "INR",
@@ -53,7 +54,7 @@ export function generateWholesaleSchema({
       "@type": "Organization",
       "name": "Arora Group Wholesale",
       "url": "https://www.aroragroupwholesale.com",
-      "logo": "https://www.aroragroupwholesale.com/arora-group-logo.png"
+      "logo": storeData.logoUrl
     }
   };
 }

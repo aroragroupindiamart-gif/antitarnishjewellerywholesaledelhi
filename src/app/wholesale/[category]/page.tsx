@@ -3,7 +3,6 @@ import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import Link from "next/link";
 import HeroSection from "@/components/HeroSection";
-import PriceTierGrid from "@/components/PriceTierGrid";
 import MarketComparisonBox from "@/components/MarketComparisonBox";
 import ProductCatalogFeed from "@/components/ProductCatalogFeed";
 import ShowroomVideoEmbed from "@/components/ShowroomVideoEmbed";
@@ -101,29 +100,6 @@ export default function CategoryPillarPage({ params }: PageProps) {
         location="Delhi"
         basePrice={cat.basePrice}
       />
-
-      {/* Pricing Matrix */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <PriceTierGrid
-          categoryName={cat.name}
-          location="Delhi NCR"
-          tier1={{
-            label: "Small Batch (₹3,000 MOV)",
-            price: `₹${cat.basePrice}`,
-            margin: "2.5x – 3.5x markup",
-          }}
-          tier2={{
-            label: "Bulk Store (₹10,000 MOV)",
-            price: `₹${cat.tier2Price}`,
-            margin: "3.5x – 5x markup",
-          }}
-          tier3={{
-            label: "Master Box (500+ pcs)",
-            price: `₹${cat.masterPrice}`,
-            margin: "Direct Factory Rates",
-          }}
-        />
-      </section>
 
       {/* Live Product Feed */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

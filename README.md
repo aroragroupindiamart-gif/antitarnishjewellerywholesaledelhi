@@ -45,6 +45,31 @@ Total Pages: **149 Statically Rendered Pages** (`generateStaticParams`)
 
 ---
 
+## 🛠 Live Catalogue (Chatcart)
+
+Product cards show the REAL Arora Group catalogue — no dummy products, no
+Unsplash photos, no invented MRPs. Data comes from Chatcart's public
+storefront API (`GET https://chatcart.in/api/public/sellers/aroragroupwholesale/products`,
+309 active products, real wholesale prices ₹15–₹2,700, real photos).
+
+- `scripts/fetch-chatcart-catalogue.mjs` pulls products + categories and
+  writes `src/data/products.json` (plus real product photos as the 8
+  category card images in `src/data/categories.json`). It runs automatically
+  before every build (`prebuild`); if Chatcart is unreachable it keeps the
+  committed file and the build still succeeds. Refresh manually with
+  `npm run fetch:catalogue`.
+- Real Chatcart categories are mapped onto the site's 8 silos (see
+  `CATEGORY_MAP` in the script). Sets, armlets, body chains, anklets and
+  watches have no site silo — they appear in the homepage feed only.
+  Men's jewellery and evil-eye have no real products — those pages show
+  the first 8 catalogue products as a generic selection.
+- No MRP exists in the real catalogue, so product cards show wholesale
+  price only. No "bestseller" filter — there is no sales data to rank by.
+- The store logo also comes from Chatcart (`GET /sellers/aroragroupwholesale`
+  → `bannerImageUrl`, the green ARORA GROUP mark) and is saved in
+  `src/data/store.json`. It is the header logo, the JSON-LD logo/image, the
+  Open Graph image and the favicon — refreshed by the same fetch script.
+
 ## 🛠 Tech Stack
 
 - **Framework**: Next.js 14+ (App Router) with full Static Site Generation (SSG).

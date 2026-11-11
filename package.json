@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "fetch:catalogue": "node scripts/fetch-chatcart-catalogue.mjs",
+    "prebuild": "node scripts/fetch-chatcart-catalogue.mjs",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"

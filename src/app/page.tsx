@@ -3,7 +3,6 @@ import Link from "next/link";
 import Image from "next/image";
 import { Metadata } from "next";
 import HeroSection from "@/components/HeroSection";
-import PriceTierGrid from "@/components/PriceTierGrid";
 import MarketComparisonBox from "@/components/MarketComparisonBox";
 import ProductCatalogFeed from "@/components/ProductCatalogFeed";
 import ShowroomVideoEmbed from "@/components/ShowroomVideoEmbed";
@@ -127,27 +126,17 @@ export default function HomePage() {
         />
       </section>
 
-      {/* 4. Live Wholesale Pricing Matrix */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <PriceTierGrid
-          categoryName="Anti-Tarnish Jewellery"
-          location="Delhi NCR"
-          tier1={{ label: "Small Batch (₹3,000 MOV)", price: "₹49 – ₹75", margin: "2.5x – 3.5x markup" }}
-          tier2={{ label: "Bulk Store (₹10,000 MOV)", price: "₹42 – ₹65", margin: "3.5x – 5x markup" }}
-          tier3={{ label: "Master Box (500+ pcs)", price: "₹36 – ₹55", margin: "Direct Factory Rates" }}
-        />
-      </section>
-
-      {/* 5. Live Product Feed & Instant WhatsApp Ordering */}
+      {/* 4. Live Product Feed & Instant WhatsApp Ordering */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <ProductCatalogFeed
-          products={productsData}
+          products={productsData.slice(0, 24)}
+          totalCount={productsData.length}
           categoryName="Anti-Tarnish Jewellery"
           locationName="Delhi NCR"
         />
       </section>
 
-      {/* 6. Delhi Wholesale Market Hubs Section */}
+      {/* 5. Delhi Wholesale Market Hubs Section */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center max-w-2xl mx-auto mb-10">
           <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider bg-emerald-50 text-emerald-800 border border-emerald-200 mb-2">

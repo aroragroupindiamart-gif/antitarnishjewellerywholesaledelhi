@@ -1,254 +1,4816 @@
 [
   {
-    "sku": "AG-RNG-01",
-    "name": "18K Roman Numeral Spinner Ring",
+    "sku": "AG-2898",
+    "chatcartId": 2898,
+    "name": "SS hoop - 34",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/27b7c492-8263-498b-b24a-aa8bcbb4ed27",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2933",
+    "chatcartId": 2933,
+    "name": "Kada bracelet - 06",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 110,
+    "image": "https://chatcart.in/api/public/img/uploads/a5ecb472-799f-4390-8e6f-175110d77200",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2498",
+    "chatcartId": 2498,
+    "name": "Ocean chain",
+    "category": "necklaces-chains",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/b89dadd1-5b50-46b6-80b4-f5978b78d23b",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2899",
+    "chatcartId": 2899,
+    "name": "SS hoop - 35",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/dd180d43-9b3a-4413-b24a-fa0ae6e0395c",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2757",
+    "chatcartId": 2757,
+    "name": "3 clover chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 130,
+    "image": "https://chatcart.in/api/public/img/uploads/a3184599-4d22-4dbb-acc0-b8e6bab2a5b8",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2781",
+    "chatcartId": 2781,
+    "name": "Red loop chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 105,
+    "image": "https://chatcart.in/api/public/img/uploads/c9b76dde-a98a-490e-8ca3-337816af0415",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2848",
+    "chatcartId": 2848,
+    "name": "Set No. 17",
+    "category": null,
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 85,
+    "image": "https://chatcart.in/api/public/img/uploads/21cf0822-82a0-410d-942e-22fcee5f7b99",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2900",
+    "chatcartId": 2900,
+    "name": "SS hoop - 36",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/be71dbee-b894-49f0-a7a6-868b98be0ebc",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2837",
+    "chatcartId": 2837,
+    "name": "Set No. 6",
+    "category": null,
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 85,
+    "image": "https://chatcart.in/api/public/img/uploads/b9dc1677-6979-4da4-b839-fcc623955a1f",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2901",
+    "chatcartId": 2901,
+    "name": "SS hoop - 37",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/fdb34827-19bf-4b9e-9555-b4eda240cce8",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-4831",
+    "chatcartId": 4831,
+    "name": "Watch - 43",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 240,
+    "image": "https://chatcart.in/api/public/img/uploads/76001839-5ac5-4400-805c-241a90f0368c",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-4837",
+    "chatcartId": 4837,
+    "name": "Fish tail pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 20,
+    "image": "https://chatcart.in/api/public/img/uploads/4a1695d2-d12f-4fe6-b68e-1026af5457cb",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-4844",
+    "chatcartId": 4844,
+    "name": "Cute pearl heart earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 20,
+    "image": "https://chatcart.in/api/public/img/uploads/cd399e4f-dcc3-4364-946d-7eab19924443",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2089",
+    "chatcartId": 2089,
+    "name": "Diamond studded rings (mixed)",
     "category": "rings",
     "material": "316l-stainless-steel",
-    "materialLabel": "316L Steel + 18K PVD",
-    "wholesalePrice": 49,
-    "mrp": 499,
-    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=600&q=80",
-    "tags": ["waterproof", "hypoallergenic", "bestseller", "under-49"],
-    "stock": "Ready Stock (500+ pcs)"
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 50,
+    "image": "https://chatcart.in/api/public/img/uploads/2cdcf5c7-1389-4c74-b206-7342476019ab",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
   },
   {
-    "sku": "AG-RNG-02",
-    "name": "Twisted Croissant Dome Band",
-    "category": "rings",
-    "material": "18k-gold-pvd-coated",
-    "materialLabel": "18K Vacuum Gold PVD",
-    "wholesalePrice": 62,
-    "mrp": 599,
-    "image": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=600&q=80",
-    "tags": ["trendy", "french-aesthetic", "under-99"],
-    "stock": "Ready Stock (400+ pcs)"
+    "sku": "AG-4832",
+    "chatcartId": 4832,
+    "name": "Watch - 44",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 240,
+    "image": "https://chatcart.in/api/public/img/uploads/af9c65e5-4fc7-465b-98e4-6dcff0f1f3c3",
+    "tags": [],
+    "stock": "In Stock"
   },
   {
-    "sku": "AG-RNG-03",
-    "name": "Baguette Zircon Eternity Stacking Ring",
-    "category": "rings",
+    "sku": "AG-2460",
+    "chatcartId": 2460,
+    "name": "Stack - 02",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/4f4d0caf-69b5-4755-a887-24bb80f78709",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1820",
+    "chatcartId": 1820,
+    "name": "Combo Earrings Set - 01",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/18a2006f-2cbd-4ac5-a1ce-9acd13d170e8",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1918",
+    "chatcartId": 1918,
+    "name": "Hollow heart pendant",
+    "category": "pendants",
     "material": "316l-stainless-steel",
-    "materialLabel": "316L Surgical Steel + AAA CZ",
-    "wholesalePrice": 55,
-    "mrp": 649,
-    "image": "https://images.unsplash.com/photo-1598560917505-59a3ad559071?auto=format&fit=crop&w=600&q=80",
-    "tags": ["minimalist", "stackable", "under-99"],
-    "stock": "Ready Stock (600+ pcs)"
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/50f1ad94-fc59-4fb7-b679-b3350d955f70.jpg",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
   },
   {
-    "sku": "AG-RNG-04",
-    "name": "Adjustable Chunky Molten Signet Ring",
+    "sku": "AG-1899",
+    "chatcartId": 1899,
+    "name": "Combo Earrings Set - 02",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/8e661db4-f46b-4f09-8745-8ac418ecd317",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-4845",
+    "chatcartId": 4845,
+    "name": "Irregular pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 20,
+    "image": "https://chatcart.in/api/public/img/uploads/10dcfb00-d326-44d7-b426-c6967abd70cc",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2250",
+    "chatcartId": 2250,
+    "name": "Design - 10",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 130,
+    "image": "https://chatcart.in/api/public/img/uploads/75517f78-1b02-4081-bb0a-6086ab18e6cd",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2902",
+    "chatcartId": 2902,
+    "name": "SS hoop - 38",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/fec20569-98f6-4784-a1e4-eed094fd1f02",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2060",
+    "chatcartId": 2060,
+    "name": "Model - 79",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 37,
+    "image": "https://chatcart.in/api/public/img/uploads/7bcab429-b988-4a34-99b4-b35d1cac9afc",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2466",
+    "chatcartId": 2466,
+    "name": "Dual heart chain (Gold)",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 60,
+    "image": "https://chatcart.in/api/public/img/uploads/da8ecb0a-79ff-4098-8bdd-ee1e3f73cdc8",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-4834",
+    "chatcartId": 4834,
+    "name": "Watch - 46",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 240,
+    "image": "https://chatcart.in/api/public/img/uploads/a4d5366b-78c6-4aff-b3c6-94f8fc1c1072",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1972",
+    "chatcartId": 1972,
+    "name": "Ring Stack - 05",
     "category": "rings",
     "material": "hypoallergenic-brass",
-    "materialLabel": "Eco Brass + Triple E-Coat",
-    "wholesalePrice": 45,
-    "mrp": 449,
-    "image": "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?auto=format&fit=crop&w=600&q=80",
-    "tags": ["under-49", "adjustable", "molten"],
-    "stock": "Ready Stock (350+ pcs)"
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 175,
+    "image": "https://chatcart.in/api/public/img/uploads/247dd4a8-a3f5-487e-bf91-0a6ede5ecb9d",
+    "tags": [],
+    "stock": "In Stock"
   },
   {
-    "sku": "AG-NCK-01",
-    "name": "Herringbone Snake Chain (3mm / 40cm)",
+    "sku": "AG-2840",
+    "chatcartId": 2840,
+    "name": "Set No. 9",
+    "category": null,
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 85,
+    "image": "https://chatcart.in/api/public/img/uploads/25faaf17-ea57-4b36-a107-f8e4b5daf32e",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2473",
+    "chatcartId": 2473,
+    "name": "Infinity chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 75,
+    "image": "https://chatcart.in/api/public/img/uploads/2383d124-c108-48cb-a737-4af53af826f9",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2903",
+    "chatcartId": 2903,
+    "name": "SS hoop - 39",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 31,
+    "image": "https://chatcart.in/api/public/img/uploads/2bd9dfc0-7e61-4504-8bea-8d69f4175e7f",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2486",
+    "chatcartId": 2486,
+    "name": "Snake Earrings",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 55,
+    "image": "https://chatcart.in/api/public/img/uploads/3ca92a7d-fc98-4e92-bed2-06571609aa15",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2462",
+    "chatcartId": 2462,
+    "name": "3 rings chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 60,
+    "image": "https://chatcart.in/api/public/img/uploads/96accb79-02c0-40ef-b912-34493682a086",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1763",
+    "chatcartId": 1763,
+    "name": "Watch - 24",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 240,
+    "image": "https://chatcart.in/api/public/img/uploads/a70c9190-1c65-4d14-b381-15450e9ff540",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-4822",
+    "chatcartId": 4822,
+    "name": "Dainty Charms Chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 110,
+    "image": "https://chatcart.in/api/public/img/uploads/af337996-8b8a-4597-b0ec-97448636ea4f",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1808",
+    "chatcartId": 1808,
+    "name": "Watch - 08",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 190,
+    "image": "https://chatcart.in/api/public/img/uploads/2d1157e8-fcf4-4f89-aa0b-cec028649c39",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1857",
+    "chatcartId": 1857,
+    "name": "Watch - 03",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 285,
+    "image": "https://chatcart.in/api/public/img/uploads/aeaf3b17-72ad-4d0f-8713-d87eb06ea2f5",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-4839",
+    "chatcartId": 4839,
+    "name": "Stylish mermaid pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 27,
+    "image": "https://chatcart.in/api/public/img/uploads/fda01b46-70b2-4efa-8cee-ab98d2fdea58",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-4823",
+    "chatcartId": 4823,
+    "name": "Infinity chain silver",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 75,
+    "image": "https://chatcart.in/api/public/img/uploads/fa9375f5-2fa9-4aa6-9292-dc81fd934006",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2468",
+    "chatcartId": 2468,
+    "name": "V chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 60,
+    "image": "https://chatcart.in/api/public/img/uploads/12819072-5760-43d3-94d1-984924893380",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-4835",
+    "chatcartId": 4835,
+    "name": "Watch - 47",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 285,
+    "image": "https://chatcart.in/api/public/img/uploads/d2cf1525-8108-4267-ab66-48ca651044c7",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2491",
+    "chatcartId": 2491,
+    "name": "Silver heart chain",
     "category": "necklaces-chains",
-    "material": "18k-gold-pvd-coated",
-    "materialLabel": "18K Vacuum Gold PVD",
-    "wholesalePrice": 89,
-    "mrp": 799,
-    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=600&q=80",
-    "tags": ["viral", "waterproof", "under-99"],
-    "stock": "Ready Stock (800+ pcs)"
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 25,
+    "image": "https://chatcart.in/api/public/img/uploads/1edbb332-ec70-4d8b-b721-708eb88f5235",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
   },
   {
-    "sku": "AG-NCK-02",
-    "name": "Dainty Paperclip Link Chain with Toggle",
+    "sku": "AG-2474",
+    "chatcartId": 2474,
+    "name": "Waterdrop chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 120,
+    "image": "https://chatcart.in/api/public/img/uploads/367491bd-1cb3-40d6-934a-9b1a93a83e8b",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2469",
+    "chatcartId": 2469,
+    "name": "Golden Clover Chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 85,
+    "image": "https://chatcart.in/api/public/img/uploads/4a677805-c748-4952-8035-1df5cc9c56e8",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2470",
+    "chatcartId": 2470,
+    "name": "Green Emerald Snake Chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 85,
+    "image": "https://chatcart.in/api/public/img/uploads/73b7ebb5-e5c1-47de-8022-0f67efaa43b9",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2477",
+    "chatcartId": 2477,
+    "name": "Ring in a ring chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 70,
+    "image": "https://chatcart.in/api/public/img/uploads/503ffcb5-7ffd-4b8c-95e7-8094ddcd4d50",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2481",
+    "chatcartId": 2481,
+    "name": "Square beads chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 70,
+    "image": "https://chatcart.in/api/public/img/uploads/db165fc7-646f-4d3a-8df2-ba5d15ba0206",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2482",
+    "chatcartId": 2482,
+    "name": "Snake diamond chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 75,
+    "image": "https://chatcart.in/api/public/img/uploads/3b81162f-1f96-438d-b905-8e733f072a7a",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-4824",
+    "chatcartId": 4824,
+    "name": "Cute dainty heart chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 70,
+    "image": "https://chatcart.in/api/public/img/uploads/5ee1179e-9483-4087-b11d-8d4eb1e59ed4",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2904",
+    "chatcartId": 2904,
+    "name": "SS hoop - 40",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/3cc889da-8d72-4d4d-b771-11a151c5976f",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2934",
+    "chatcartId": 2934,
+    "name": "Assorted Rings - 1 piece",
+    "category": "rings",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 25,
+    "image": "https://chatcart.in/api/public/img/uploads/afe076af-fb6b-4305-ab66-0a93e653a723",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2471",
+    "chatcartId": 2471,
+    "name": "Cult bow chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 60,
+    "image": "https://chatcart.in/api/public/img/uploads/fa5e67f3-ea24-487e-abc8-a2209f5dc5af",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2865",
+    "chatcartId": 2865,
+    "name": "SS hoop - 01",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 35,
+    "image": "https://chatcart.in/api/public/img/uploads/7d78ba89-1301-4583-92ad-c9a22fd5d812",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2905",
+    "chatcartId": 2905,
+    "name": "SS hoop - 41",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/c405e582-2c5c-4a74-96dc-326cc0f522eb",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2935",
+    "chatcartId": 2935,
+    "name": "Assorted Rings - 1 piece",
+    "category": "rings",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 40,
+    "image": "https://chatcart.in/api/public/img/uploads/e2e95754-37f3-45bf-9b01-24b7bd344908",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2906",
+    "chatcartId": 2906,
+    "name": "SS hoop - 42",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/6e271bf8-198b-47eb-91c3-21f26f4e6b73",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2936",
+    "chatcartId": 2936,
+    "name": "Kada bracelet - 07",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 90,
+    "image": "https://chatcart.in/api/public/img/uploads/32815ea8-0c2f-4d98-a5c8-d7ac2a286ef9",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2867",
+    "chatcartId": 2867,
+    "name": "SS hoop - 03",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 35,
+    "image": "https://chatcart.in/api/public/img/uploads/a0ff6b67-aed2-4756-801d-9aaec355f481",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2907",
+    "chatcartId": 2907,
+    "name": "SS hoop - 43",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/e2a841ed-c842-454e-ad80-fddb8942695d",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2937",
+    "chatcartId": 2937,
+    "name": "Kada bracelet - 08",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 90,
+    "image": "https://chatcart.in/api/public/img/uploads/599a6577-237c-4457-807a-5cf9c190bfd7",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2868",
+    "chatcartId": 2868,
+    "name": "SS hoop - 04",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 35,
+    "image": "https://chatcart.in/api/public/img/uploads/5d91a5e4-c63f-4132-bc38-d34af2e8d187",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2908",
+    "chatcartId": 2908,
+    "name": "SS hoop - 44",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/bb2da834-d3be-4f73-beb5-2818c1fd9172",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2938",
+    "chatcartId": 2938,
+    "name": "Kada bracelet - 09",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 90,
+    "image": "https://chatcart.in/api/public/img/uploads/2e99705a-582a-4ef8-94a1-6a57c7ab323d",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1818",
+    "chatcartId": 1818,
+    "name": "Nail ring",
+    "category": "rings",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 45,
+    "image": "https://chatcart.in/api/public/img/uploads/ff7cf7a7-05e8-4d75-bc4f-421527a8a0e6",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2869",
+    "chatcartId": 2869,
+    "name": "SS hoop - 05",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 35,
+    "image": "https://chatcart.in/api/public/img/uploads/67fb1e51-d2db-49d8-a78d-12bbd7388636",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1846",
+    "chatcartId": 1846,
+    "name": "Waterdrop Set (silver)",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 80,
+    "image": "https://chatcart.in/api/public/img/uploads/bad6a0d0-77ff-4587-8a1f-b90eadc73a62",
+    "tags": [
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2909",
+    "chatcartId": 2909,
+    "name": "SS hoop - 45",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/83e668e0-015e-4e51-ae94-65bd83cca815",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2939",
+    "chatcartId": 2939,
+    "name": "Kada bracelet - 10",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 90,
+    "image": "https://chatcart.in/api/public/img/uploads/29653a34-ad0f-4bfe-b15c-262625be9c96",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2870",
+    "chatcartId": 2870,
+    "name": "SS hoop - 06",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 35,
+    "image": "https://chatcart.in/api/public/img/uploads/0ef5a09d-1a34-43cc-80b7-0068c9672d7b",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2910",
+    "chatcartId": 2910,
+    "name": "SS hoop - 46",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/6165bcf5-c28b-4fca-afde-4ed4ce164dd4",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1861",
+    "chatcartId": 1861,
+    "name": "korean Bracelet Stack 9",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/400d5946-7d4c-4ada-bae1-d03abd30dd62",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2940",
+    "chatcartId": 2940,
+    "name": "Kada bracelet - 11",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 90,
+    "image": "https://chatcart.in/api/public/img/uploads/e94ec60f-6d1c-427c-92b4-6a8945228c04",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1867",
+    "chatcartId": 1867,
+    "name": "Arm bracelet - 05",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 150,
+    "image": "https://chatcart.in/api/public/img/uploads/f41ed6df-5841-472d-8f33-1a2cc2749f25.jpg",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2911",
+    "chatcartId": 2911,
+    "name": "SS hoop - 47",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/8049e6da-0577-4e0f-b69f-47ba61fd2472",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2941",
+    "chatcartId": 2941,
+    "name": "Kada bracelet - 12",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 90,
+    "image": "https://chatcart.in/api/public/img/uploads/204fa2e5-0b29-415f-af15-c7401067159b",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2633",
+    "chatcartId": 2633,
+    "name": "Bow danglers",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 35,
+    "image": "https://chatcart.in/api/public/img/uploads/e20a9fbe-ca3f-4d8f-8e8e-753b7fabd10d",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1923",
+    "chatcartId": 1923,
+    "name": "Drip hollow ring",
+    "category": "rings",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 50,
+    "image": "https://chatcart.in/api/public/img/uploads/3910b583-6a04-4ecf-a18d-281734ccb2f7.jpg",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2872",
+    "chatcartId": 2872,
+    "name": "SS hoop - 08",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 35,
+    "image": "https://chatcart.in/api/public/img/uploads/e8d22dd3-92a6-4df1-b3bf-daf1f11c179d",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2912",
+    "chatcartId": 2912,
+    "name": "SS hoop - 48",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/c13f6a0e-096b-4451-8a10-f598a668468e",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2942",
+    "chatcartId": 2942,
+    "name": "Kada bracelet - 13",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 90,
+    "image": "https://chatcart.in/api/public/img/uploads/6cc296ef-380f-4684-8b81-f5f53a86ee72",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2913",
+    "chatcartId": 2913,
+    "name": "SS hoop - 49",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/a1162c37-44f4-45ba-a7a7-c53fe7491210",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2874",
+    "chatcartId": 2874,
+    "name": "SS hoop - 10",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 35,
+    "image": "https://chatcart.in/api/public/img/uploads/49ea4e8b-f374-4a66-872a-804fbe646187",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2914",
+    "chatcartId": 2914,
+    "name": "SS hoop - 50",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/02515906-3e6c-4912-831f-abd504f2eaf5",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2944",
+    "chatcartId": 2944,
+    "name": "Kada bracelet - 15",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 90,
+    "image": "https://chatcart.in/api/public/img/uploads/7d86a15e-b149-4068-9ff7-18fc23b0d101",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2875",
+    "chatcartId": 2875,
+    "name": "SS hoop - 11",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 35,
+    "image": "https://chatcart.in/api/public/img/uploads/142546fb-8b84-403d-8f22-9f4532f5f2d5",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2915",
+    "chatcartId": 2915,
+    "name": "SS hoop - 51",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/1f2a3fa5-ac32-4e75-a4ed-85743b05a539",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2945",
+    "chatcartId": 2945,
+    "name": "Kada bracelet - 16",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 90,
+    "image": "https://chatcart.in/api/public/img/uploads/52700273-f531-4c29-b2a1-2d65c118990e",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2876",
+    "chatcartId": 2876,
+    "name": "SS hoop - 12",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 35,
+    "image": "https://chatcart.in/api/public/img/uploads/a01908aa-dba3-4005-81f5-446aa1bd3d13",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2634",
+    "chatcartId": 2634,
+    "name": "Leaf earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 17,
+    "image": "https://chatcart.in/api/public/img/uploads/207bfb78-d36a-4e42-99e0-740e66c34e4a",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2845",
+    "chatcartId": 2845,
+    "name": "Set No. 14",
+    "category": null,
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 85,
+    "image": "https://chatcart.in/api/public/img/uploads/b91766c4-833d-4322-b342-6854eb6e16a7",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2916",
+    "chatcartId": 2916,
+    "name": "SS hoop - 52",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/b11b141e-249c-4f47-bb22-af5e1787a328",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2917",
+    "chatcartId": 2917,
+    "name": "SS hoop - 53",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/2938c162-ff03-4033-a4ef-9bbe0922ed4a",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2947",
+    "chatcartId": 2947,
+    "name": "Kada bracelet - 18",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 90,
+    "image": "https://chatcart.in/api/public/img/uploads/de4d8f3c-41ec-4413-a0c3-07e49825f873",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1772",
+    "chatcartId": 1772,
+    "name": "Resin Bangle - 09",
+    "category": "bracelets-kada",
+    "material": "other",
+    "materialLabel": "Resin",
+    "materialShort": "Resin",
+    "wholesalePrice": 80,
+    "image": "https://chatcart.in/api/public/img/uploads/5adcc099-84a6-4c36-9983-1dcb3e1206e7.jpg",
+    "tags": [
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2879",
+    "chatcartId": 2879,
+    "name": "SS hoop - 15",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 35,
+    "image": "https://chatcart.in/api/public/img/uploads/efdf2608-9820-4940-9644-4c9e37adf6ec",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2918",
+    "chatcartId": 2918,
+    "name": "SS hoop - 54",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/5dd703f1-bbbc-486a-b5bd-eec0ab0b1d04",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-4825",
+    "chatcartId": 4825,
+    "name": "Dainty White Heart Chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 70,
+    "image": "https://chatcart.in/api/public/img/uploads/a8acffdf-4b08-40d8-8afe-2229ea66ee1d",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2919",
+    "chatcartId": 2919,
+    "name": "SS hoop - 55",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/9d6fa693-46be-4704-b506-7f9a2ee97406",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1969",
+    "chatcartId": 1969,
+    "name": "korean Bracelet Stack 6",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/5df5d64d-decc-4c57-8c44-afc2aa537f20",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2949",
+    "chatcartId": 2949,
+    "name": "Kada bracelet - 20",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 90,
+    "image": "https://chatcart.in/api/public/img/uploads/ed1a2b3d-93f4-4f61-823d-329577dd7505",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2920",
+    "chatcartId": 2920,
+    "name": "SS hoop - 56",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/28ad5d83-0c25-465d-abc7-e3da1c045e31",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2950",
+    "chatcartId": 2950,
+    "name": "Kada bracelet - 21",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 90,
+    "image": "https://chatcart.in/api/public/img/uploads/998db9dd-d060-4243-acb4-974d50238e40",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1834",
+    "chatcartId": 1834,
+    "name": "Watch - 19",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 285,
+    "image": "https://chatcart.in/api/public/img/uploads/26e700c3-21f7-4890-bd11-31b5eea47278.jpg",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2074",
+    "chatcartId": 2074,
+    "name": "Bracelet stack - 12",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 75,
+    "image": "https://chatcart.in/api/public/img/uploads/1554bfc6-e162-4991-afa7-6413e0334259",
+    "tags": [
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1892",
+    "chatcartId": 1892,
+    "name": "Big Bow Earrings",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 50,
+    "image": "https://chatcart.in/api/public/img/uploads/8c101ecf-c434-4316-9b58-e3df2d544bd7.jpg",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1870",
+    "chatcartId": 1870,
+    "name": "Adjustable Rings",
+    "category": "rings",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 40,
+    "image": "https://chatcart.in/api/public/img/uploads/ca4a143f-1044-4941-9b5f-747fce7edb95",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2882",
+    "chatcartId": 2882,
+    "name": "SS hoop - 18",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 35,
+    "image": "https://chatcart.in/api/public/img/uploads/51d8051f-d70c-41c1-9619-72330d659241",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2921",
+    "chatcartId": 2921,
+    "name": "SS hoop - 57",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/3f4e711c-200b-4e9a-8e31-49122350b478",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2951",
+    "chatcartId": 2951,
+    "name": "Kada bracelet - 22",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 90,
+    "image": "https://chatcart.in/api/public/img/uploads/cb4d62d3-a28d-42c2-b7ba-7e37d7ec0fb1",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1878",
+    "chatcartId": 1878,
+    "name": "Dual layer butterfly anklet",
+    "category": null,
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 135,
+    "image": "https://chatcart.in/api/public/img/uploads/10b5f143-8c99-4abd-aedf-de5c1d4f64a7.jpg",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1875",
+    "chatcartId": 1875,
+    "name": "Model 55",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 60,
+    "image": "https://chatcart.in/api/public/img/uploads/eaa38f7c-5cc7-4dad-8ec6-c172caccff38",
+    "tags": [
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1879",
+    "chatcartId": 1879,
+    "name": "Snake chain bracelet",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 110,
+    "image": "https://chatcart.in/api/public/img/uploads/8b685f2d-3904-41c6-a888-8a5c8be393bd",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1916",
+    "chatcartId": 1916,
+    "name": "Arm bracelet - 04",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 120,
+    "image": "https://chatcart.in/api/public/img/uploads/2acfe5b7-113f-47fe-9875-b4943e287a9b.jpg",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1762",
+    "chatcartId": 1762,
+    "name": "Chain Pendant - 18",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 110,
+    "image": "https://chatcart.in/api/public/img/uploads/45567b86-9caa-4168-b206-2d0e46c879a7",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1942",
+    "chatcartId": 1942,
+    "name": "Watch - 14",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 280,
+    "image": "https://chatcart.in/api/public/img/uploads/7d68cc04-d82d-4fcd-b28a-fb217771f983.jpg",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1897",
+    "chatcartId": 1897,
+    "name": "Set No. 5",
+    "category": null,
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 85,
+    "image": "https://chatcart.in/api/public/img/uploads/e1bf0462-a2b0-4526-b201-f44bf5f37cae",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1885",
+    "chatcartId": 1885,
+    "name": "Bow set with bracelet and ring",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 70,
+    "image": "https://chatcart.in/api/public/img/uploads/0de682f2-fbc5-4cc8-8bf8-750eed7f7878.jpg",
+    "tags": [
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1759",
+    "chatcartId": 1759,
+    "name": "Set 7",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 305,
+    "image": "https://chatcart.in/api/public/img/uploads/fdafe1b4-ab3e-481a-84fe-fe4a301d1746",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2883",
+    "chatcartId": 2883,
+    "name": "SS hoop - 19",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 35,
+    "image": "https://chatcart.in/api/public/img/uploads/42856949-e049-45c0-9be8-0e6059f515ea",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2922",
+    "chatcartId": 2922,
+    "name": "SS hoop - 58",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/5ea022aa-abef-4b6d-b09c-7431335cae37",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1774",
+    "chatcartId": 1774,
+    "name": "Love chain bracelet",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 110,
+    "image": "https://chatcart.in/api/public/img/uploads/ec77385d-5240-41f5-a387-751b4d1e8ac3",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2952",
+    "chatcartId": 2952,
+    "name": "Kada bracelet - 23",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 90,
+    "image": "https://chatcart.in/api/public/img/uploads/9300ddf7-ccbf-485d-9f1a-f38ecc6dcbbe",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1966",
+    "chatcartId": 1966,
+    "name": "Chain Pendant - 17",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 130,
+    "image": "https://chatcart.in/api/public/img/uploads/af53d2fd-f3e7-4f68-bc2f-71995a6e5e79",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1982",
+    "chatcartId": 1982,
+    "name": "Moon, star, sun - three layered ring",
+    "category": "rings",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 50,
+    "image": "https://chatcart.in/api/public/img/uploads/0604a0cb-4930-418c-bfb6-1adf53d28de9.jpg",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-3037",
+    "chatcartId": 3037,
+    "name": "Koean Earrings Combo - 01",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 85,
+    "image": "https://chatcart.in/api/public/img/uploads/dfc8becb-2d6c-48fb-bc32-bafb0a0b6ca0",
+    "tags": [
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1997",
+    "chatcartId": 1997,
+    "name": "Watch - 28",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 280,
+    "image": "https://chatcart.in/api/public/img/uploads/a5e909a0-9750-4d27-8371-667c9194d843.jpg",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1989",
+    "chatcartId": 1989,
+    "name": "Watch - 13",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 280,
+    "image": "https://chatcart.in/api/public/img/uploads/0332cb1d-675e-40ba-aace-acb79ad0964d.jpg",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1788",
+    "chatcartId": 1788,
+    "name": "Full diamond square earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 28,
+    "image": "https://chatcart.in/api/public/img/uploads/85410b7f-cbad-4686-8b88-9817e4548514",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1796",
+    "chatcartId": 1796,
+    "name": "Waterdrop Set (Golden)",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 80,
+    "image": "https://chatcart.in/api/public/img/uploads/17519547-0925-4fea-8c7d-1109cd560194",
+    "tags": [
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1793",
+    "chatcartId": 1793,
+    "name": "Diamond Set (Silver)",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/6b674ab1-f06e-4774-8dc3-987141f4e5eb",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2884",
+    "chatcartId": 2884,
+    "name": "SS hoop - 20",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 35,
+    "image": "https://chatcart.in/api/public/img/uploads/74171537-ca49-47a9-9317-296452d89817",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2923",
+    "chatcartId": 2923,
+    "name": "SS hoop - 59",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/3d395e41-7e77-42a8-aa5c-2bf3ce5a802e",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1799",
+    "chatcartId": 1799,
+    "name": "Diamond bow chain bracelet",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 110,
+    "image": "https://chatcart.in/api/public/img/uploads/0edfbe85-9d9f-401e-be36-ddd062be1775",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1906",
+    "chatcartId": 1906,
+    "name": "Anti Tarnish Rings (Mixed)",
+    "category": "rings",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 40,
+    "image": "https://chatcart.in/api/public/img/uploads/e5b4da17-0e43-482b-b119-ace6b1f9547b",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1910",
+    "chatcartId": 1910,
+    "name": "Wide band ring",
+    "category": "rings",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 50,
+    "image": "https://chatcart.in/api/public/img/uploads/392fffe5-61d2-4bda-a4aa-54a73d5a52e3.jpg",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-3038",
+    "chatcartId": 3038,
+    "name": "Koean Earrings Combo - 02",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 85,
+    "image": "https://chatcart.in/api/public/img/uploads/f60fe5f2-1762-486f-9ccc-065963d1c047",
+    "tags": [
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-3039",
+    "chatcartId": 3039,
+    "name": "Koean Earrings Combo - 03",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 85,
+    "image": "https://chatcart.in/api/public/img/uploads/5c1e306c-b115-4752-80fb-6199c508d548",
+    "tags": [
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2012",
+    "chatcartId": 2012,
+    "name": "Full of heart ring",
+    "category": "rings",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 50,
+    "image": "https://chatcart.in/api/public/img/uploads/3b961bad-6f3c-4d3d-8f15-40f29f4de9a0.jpg",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1881",
+    "chatcartId": 1881,
+    "name": "Chain Pendant - 36",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 125,
+    "image": "https://chatcart.in/api/public/img/uploads/705af598-774e-4fca-9b4e-34bafdcd301e",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1753",
+    "chatcartId": 1753,
+    "name": "Body Chain - 01 (silver)",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 125,
+    "image": "https://chatcart.in/api/public/img/uploads/526873c5-8d75-4901-b112-569cebf07272.jpg",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2885",
+    "chatcartId": 2885,
+    "name": "SS hoop - 21",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 35,
+    "image": "https://chatcart.in/api/public/img/uploads/b50427b8-0d80-49e4-b63c-f61b71054f58",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2924",
+    "chatcartId": 2924,
+    "name": "SS hoop - 60",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/6880f95d-a54f-4652-868f-fe5ee818e84a",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2954",
+    "chatcartId": 2954,
+    "name": "Kada bracelet - 25",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 90,
+    "image": "https://chatcart.in/api/public/img/uploads/8c73ac22-5ee8-410b-befa-adffa374ad74",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-4818",
+    "chatcartId": 4818,
+    "name": "Waterdrop Armlet",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/619dbe62-77d7-4f2d-9c7c-ff808862d52d",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2886",
+    "chatcartId": 2886,
+    "name": "SS hoop - 22",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 35,
+    "image": "https://chatcart.in/api/public/img/uploads/f1949a81-1acd-4d96-8b62-a34304288c6a",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2925",
+    "chatcartId": 2925,
+    "name": "SS hoop - 61",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/9b2e829d-14cc-4fa4-acfe-1d4415e0bebf",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2943",
+    "chatcartId": 2943,
+    "name": "Kada bracelet - 14",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 90,
+    "image": "https://chatcart.in/api/public/img/uploads/e168c474-e504-4e56-94e2-234dba5540fc",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2926",
+    "chatcartId": 2926,
+    "name": "SS hoop - 62",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/df542b4b-5bef-47cf-9c10-d2148a9a8bcf",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-3040",
+    "chatcartId": 3040,
+    "name": "Koean Earrings Combo - 04",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 85,
+    "image": "https://chatcart.in/api/public/img/uploads/c1fb7c34-0d5d-457e-8501-7393b630eaaf",
+    "tags": [
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2888",
+    "chatcartId": 2888,
+    "name": "SS hoop - 24",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 35,
+    "image": "https://chatcart.in/api/public/img/uploads/0a14620f-b430-4c81-bf45-d0610a6ae3b3",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2927",
+    "chatcartId": 2927,
+    "name": "SS hoop - 63",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/fb5fc704-85a6-4e1f-b744-f8c71454d726",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-3041",
+    "chatcartId": 3041,
+    "name": "Koean Earrings Combo - 05",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 85,
+    "image": "https://chatcart.in/api/public/img/uploads/ccc7f512-414c-4b68-bdc4-c958ee3182df",
+    "tags": [
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1952",
+    "chatcartId": 1952,
+    "name": "Watch - 11",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 280,
+    "image": "https://chatcart.in/api/public/img/uploads/9e4bac2d-a540-4ba2-a699-3211e0a790a7.jpg",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2457",
+    "chatcartId": 2457,
+    "name": "3 layer gold bracelet",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/9b3d08cd-74c8-468c-a2ae-942ba6514281",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1869",
+    "chatcartId": 1869,
+    "name": "Round Diamond Set",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 75,
+    "image": "https://chatcart.in/api/public/img/uploads/cd4249ca-ff1f-4e05-829c-73c29ed99039",
+    "tags": [
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1970",
+    "chatcartId": 1970,
+    "name": "Arm bracelet - 03",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 120,
+    "image": "https://chatcart.in/api/public/img/uploads/2f710e7f-829f-450e-9936-00203f519608.jpg",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2463",
+    "chatcartId": 2463,
+    "name": "Dual layer snake chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 70,
+    "image": "https://chatcart.in/api/public/img/uploads/bcb94f78-d95c-404b-9941-5bf394798dd7",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2467",
+    "chatcartId": 2467,
+    "name": "Dual heart chain (Silver)",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 60,
+    "image": "https://chatcart.in/api/public/img/uploads/63ab9bf0-1ff0-4d60-95ae-1030a3cab7fa",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2472",
+    "chatcartId": 2472,
+    "name": "Roman numbers chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 60,
+    "image": "https://chatcart.in/api/public/img/uploads/78d90334-c51d-40e3-9aa7-4c10adb46b0d",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2476",
+    "chatcartId": 2476,
+    "name": "Crescent Moon Chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/040a95ab-17b2-40c0-b503-3f258142c360",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2485",
+    "chatcartId": 2485,
+    "name": "Dual layer sparkling chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 105,
+    "image": "https://chatcart.in/api/public/img/uploads/4e33abb4-8e5c-4fe0-b291-f715720967e1",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2464",
+    "chatcartId": 2464,
+    "name": "Mini diamond chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 60,
+    "image": "https://chatcart.in/api/public/img/uploads/0b7966b0-d569-4012-9e06-67c4a2fa61f3",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2479",
+    "chatcartId": 2479,
+    "name": "Dainty white heart chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 70,
+    "image": "https://chatcart.in/api/public/img/uploads/3d43d92d-f22e-4ab1-84e3-36f7c41810e6",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2465",
+    "chatcartId": 2465,
+    "name": "Dual heart chain (Rose Gold)",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 60,
+    "image": "https://chatcart.in/api/public/img/uploads/a506dc6a-4229-4400-b491-c011bf8c9488",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2478",
+    "chatcartId": 2478,
+    "name": "Dainty black heart chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 70,
+    "image": "https://chatcart.in/api/public/img/uploads/7c2c217d-ead9-4e4f-8966-b4740c568f01",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2480",
+    "chatcartId": 2480,
+    "name": "Reversible Black & White stone chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 110,
+    "image": "https://chatcart.in/api/public/img/uploads/ba605f05-ee03-46e0-8298-cddd6009f627",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-3042",
+    "chatcartId": 3042,
+    "name": "Koean Earrings Combo - 06",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 85,
+    "image": "https://chatcart.in/api/public/img/uploads/dc09cb57-8115-41dd-97e7-9c72d8257042",
+    "tags": [
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2489",
+    "chatcartId": 2489,
+    "name": "Dual butterfly chain",
+    "category": "necklaces-chains",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 25,
+    "image": "https://chatcart.in/api/public/img/uploads/96684479-b9c4-4154-baa3-3c5462e71bd6",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2497",
+    "chatcartId": 2497,
+    "name": "Heart ring chain",
+    "category": "necklaces-chains",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 25,
+    "image": "https://chatcart.in/api/public/img/uploads/36b3620d-03b9-4cff-9c56-99e2557e9dfb",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2499",
+    "chatcartId": 2499,
+    "name": "Love heart chain",
+    "category": "necklaces-chains",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 35,
+    "image": "https://chatcart.in/api/public/img/uploads/85df292e-0a10-4465-a9da-a10b2c7e5d3b",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2500",
+    "chatcartId": 2500,
+    "name": "Fly high bird chain",
+    "category": "necklaces-chains",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 40,
+    "image": "https://chatcart.in/api/public/img/uploads/460e17fd-1f95-4d75-b36c-6a4a05f20a54",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2508",
+    "chatcartId": 2508,
+    "name": "Zerconia flower ring",
+    "category": "rings",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 90,
+    "image": "https://chatcart.in/api/public/img/uploads/4b9c00bc-c0b8-4460-9c74-f7d16b57be1d",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2509",
+    "chatcartId": 2509,
+    "name": "Zerconia Pearl Ring",
+    "category": "rings",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 90,
+    "image": "https://chatcart.in/api/public/img/uploads/222b1263-e886-432b-96d2-88fb4eaa2da6",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2513",
+    "chatcartId": 2513,
+    "name": "Trendy Zigzag ring",
+    "category": "rings",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 50,
+    "image": "https://chatcart.in/api/public/img/uploads/cf2e705c-2d76-467d-981d-91fb3413259d",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2514",
+    "chatcartId": 2514,
+    "name": "Hollow multi layered ring",
+    "category": "rings",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 50,
+    "image": "https://chatcart.in/api/public/img/uploads/f1725c4e-6eaa-4411-a0fc-c0aa7cc7ff14",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2515",
+    "chatcartId": 2515,
+    "name": "Sea shell starfish ring",
+    "category": "rings",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 50,
+    "image": "https://chatcart.in/api/public/img/uploads/3630163e-55f2-472e-94f7-431844bb2f47",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2517",
+    "chatcartId": 2517,
+    "name": "Heart loop ring",
+    "category": "rings",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 50,
+    "image": "https://chatcart.in/api/public/img/uploads/e2ab15e9-94c3-49ed-9c64-ca7ea99daa32",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2518",
+    "chatcartId": 2518,
+    "name": "Four clover ring",
+    "category": "rings",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 50,
+    "image": "https://chatcart.in/api/public/img/uploads/8bd94cd4-0aaa-429b-8cac-dd92b7939295",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2526",
+    "chatcartId": 2526,
+    "name": "Zerconia Clover Ring",
+    "category": "rings",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 160,
+    "image": "https://chatcart.in/api/public/img/uploads/efdea3ae-be79-4d63-b051-81438555ae8f",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2891",
+    "chatcartId": 2891,
+    "name": "SS hoop - 27",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 35,
+    "image": "https://chatcart.in/api/public/img/uploads/bc1db5e6-d369-416c-aaf6-fbbc9c66a1dc",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2892",
+    "chatcartId": 2892,
+    "name": "SS hoop - 28",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 35,
+    "image": "https://chatcart.in/api/public/img/uploads/eb111a2c-b55b-4ecf-bca9-87f928882ced",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2607",
+    "chatcartId": 2607,
+    "name": "Mini bow pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 21,
+    "image": "https://chatcart.in/api/public/img/uploads/26b7e124-d9ad-4554-b584-a17b4a607907",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2626",
+    "chatcartId": 2626,
+    "name": "Little heart pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 22,
+    "image": "https://chatcart.in/api/public/img/uploads/468b4737-cfd5-445a-b622-4830357defb7",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2622",
+    "chatcartId": 2622,
+    "name": "Swan opal earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 25,
+    "image": "https://chatcart.in/api/public/img/uploads/24fd9b38-f890-48a7-9700-795c32aed4af",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2605",
+    "chatcartId": 2605,
+    "name": "Dual diamond pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 18,
+    "image": "https://chatcart.in/api/public/img/uploads/029634b4-1718-4e41-9820-ffd4357f65c8",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2598",
+    "chatcartId": 2598,
+    "name": "Ring stack - 06",
+    "category": "rings",
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 80,
+    "image": "https://chatcart.in/api/public/img/uploads/d4315563-1cfc-4d7d-9b03-ed0c9ba27d4e",
+    "tags": [
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2601",
+    "chatcartId": 2601,
+    "name": "Dual Pearl Earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 18,
+    "image": "https://chatcart.in/api/public/img/uploads/fe58c45c-8c10-4aaa-8ec2-2001bd069c8b",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2645",
+    "chatcartId": 2645,
+    "name": "C pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/4c1d88c5-c16e-42e2-9b54-027bd9f10514",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2647",
+    "chatcartId": 2647,
+    "name": "Heart pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 26,
+    "image": "https://chatcart.in/api/public/img/uploads/2d0723f6-3d6a-4876-84e5-3addf2b87f7c",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-3043",
+    "chatcartId": 3043,
+    "name": "Koean Earrings Combo - 07",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 85,
+    "image": "https://chatcart.in/api/public/img/uploads/01b99ae2-5782-4022-99c4-45fe02e1c0cd",
+    "tags": [
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2771",
+    "chatcartId": 2771,
+    "name": "Pink rose heart chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 104,
+    "image": "https://chatcart.in/api/public/img/uploads/0da9d594-51a0-4381-bfe7-726f900f99a9",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2604",
+    "chatcartId": 2604,
+    "name": "Floral pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 28,
+    "image": "https://chatcart.in/api/public/img/uploads/386231ad-dfd0-4f2b-b44f-ed785ec3e39b",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2772",
+    "chatcartId": 2772,
+    "name": "Crescent moon chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 130,
+    "image": "https://chatcart.in/api/public/img/uploads/8f013f2b-6afe-4e14-a86a-77c3f69b8697",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2893",
+    "chatcartId": 2893,
+    "name": "SS hoop - 29",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 35,
+    "image": "https://chatcart.in/api/public/img/uploads/9431d508-34a5-4a8f-a5a0-ce270669e6da",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2650",
+    "chatcartId": 2650,
+    "name": "Pearl flower earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 19,
+    "image": "https://chatcart.in/api/public/img/uploads/032f37f2-3929-443b-a83a-eb02f5514717",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2660",
+    "chatcartId": 2660,
+    "name": "Bracelet stack - 13",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/fcdc702c-21a0-41c8-91ff-66f5b5cea593",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2661",
+    "chatcartId": 2661,
+    "name": "Bracelet stack - 14",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/872e09e9-6cf9-4c11-a010-e542cdd8bf06",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-3044",
+    "chatcartId": 3044,
+    "name": "Koean Earrings Combo - 08",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 85,
+    "image": "https://chatcart.in/api/public/img/uploads/204fe92a-e29c-4b98-a4c2-c3a235c588f2",
+    "tags": [
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-3045",
+    "chatcartId": 3045,
+    "name": "Koean Earrings Combo - 09",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 85,
+    "image": "https://chatcart.in/api/public/img/uploads/a5962f3c-a917-4b81-92af-d3a6b1231df4",
+    "tags": [
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-3046",
+    "chatcartId": 3046,
+    "name": "Koean Earrings Combo - 10",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 85,
+    "image": "https://chatcart.in/api/public/img/uploads/2f4d3ba1-f07f-485b-bb70-a75cb829c8b2",
+    "tags": [
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2649",
+    "chatcartId": 2649,
+    "name": "Fish tail pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 22,
+    "image": "https://chatcart.in/api/public/img/uploads/44ed2e2c-5ac5-438c-acf1-aa01d4373db2",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2706",
+    "chatcartId": 2706,
+    "name": "Silver snake ring",
+    "category": "rings",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/9418f2df-4e42-45b1-aec7-3806aa239b77",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2707",
+    "chatcartId": 2707,
+    "name": "Green emerald set",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/b3fccf96-bf4c-4704-8c28-373f5ebbb67b",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2714",
+    "chatcartId": 2714,
+    "name": "Bamboo Bracelet",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 110,
+    "image": "https://chatcart.in/api/public/img/uploads/7ca1b1ed-39f2-4e42-9dea-64b44cf315c2",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2894",
+    "chatcartId": 2894,
+    "name": "SS hoop - 30",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 35,
+    "image": "https://chatcart.in/api/public/img/uploads/5067be86-5972-4948-ae1b-3d6426c974dd",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2643",
+    "chatcartId": 2643,
+    "name": "Enamel pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 24,
+    "image": "https://chatcart.in/api/public/img/uploads/6c3391d3-758f-4c36-a567-75e31ca3e6eb",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2746",
+    "chatcartId": 2746,
+    "name": "Kashmiri Watch - 32",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 160,
+    "image": "https://chatcart.in/api/public/img/uploads/f604e9f6-aa89-4c89-80b7-8f655225340d",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2750",
+    "chatcartId": 2750,
+    "name": "Multi color tassle chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 135,
+    "image": "https://chatcart.in/api/public/img/uploads/bf8f4c61-1cfe-481b-9014-51883993454c",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2751",
+    "chatcartId": 2751,
+    "name": "Cherry diamond chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/569146a1-ff89-4ce4-8135-9a346bf6c681",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2752",
+    "chatcartId": 2752,
+    "name": "Rounded stones chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/e3e5c89e-3353-4389-b57b-a37f4db1c69d",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2753",
+    "chatcartId": 2753,
+    "name": "Dual heart love chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/fee3371b-32be-4321-a47d-b47f20ecf1bb",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2754",
+    "chatcartId": 2754,
+    "name": "White diamond spoon chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/39818059-fdec-49f6-a4fb-808901c1fccf",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2755",
+    "chatcartId": 2755,
+    "name": "Pink diamond spoon chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/b4229fc4-87f2-4935-bd89-c74c21bcec58",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2756",
+    "chatcartId": 2756,
+    "name": "Green diamond spoon chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/8ace5d69-023b-47f5-a6e9-ed9e366e2a23",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2758",
+    "chatcartId": 2758,
+    "name": "Multi diamonds heart chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/cb4a21dc-a027-491b-8b5e-87ff1d17f32d",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2759",
+    "chatcartId": 2759,
+    "name": "Flower dimaond chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 105,
+    "image": "https://chatcart.in/api/public/img/uploads/dc89ccfc-b3fa-494e-bb19-b5246cab790e",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2762",
+    "chatcartId": 2762,
+    "name": "Evil eye flower chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 115,
+    "image": "https://chatcart.in/api/public/img/uploads/92f2a581-438d-4e07-af3a-e3c2e57c58e1",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2763",
+    "chatcartId": 2763,
+    "name": "Purple double tulip chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 110,
+    "image": "https://chatcart.in/api/public/img/uploads/36b0b751-288f-4dc8-a907-acf2fd12978d",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2764",
+    "chatcartId": 2764,
+    "name": "Pink double tulip chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 110,
+    "image": "https://chatcart.in/api/public/img/uploads/d20ea16d-9cb2-4b77-8057-10e3f0d182ac",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2765",
+    "chatcartId": 2765,
+    "name": "Rainbow dangler chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/e69c9226-c5f4-4c78-920c-e812882ee4e2",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2767",
+    "chatcartId": 2767,
+    "name": "Red spiral chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/990c4a4f-98b3-4ec1-874c-7e886269cb4d",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2768",
+    "chatcartId": 2768,
+    "name": "Star dangler chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 170,
+    "image": "https://chatcart.in/api/public/img/uploads/0ae6391b-178c-4f76-85c9-28867dace656",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2769",
+    "chatcartId": 2769,
+    "name": "White diamond star chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 90,
+    "image": "https://chatcart.in/api/public/img/uploads/65df4f5f-09d7-4cd9-bb39-3c9079f759ab",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2770",
+    "chatcartId": 2770,
+    "name": "U moon diamond chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 115,
+    "image": "https://chatcart.in/api/public/img/uploads/bc63f923-3eb2-4895-8880-f68eb963908d",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2774",
+    "chatcartId": 2774,
+    "name": "Pink diamond pearl chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/ba225506-f874-4e12-87ae-cf2e244f08c2",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2775",
+    "chatcartId": 2775,
+    "name": "Rainbow diamond chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 115,
+    "image": "https://chatcart.in/api/public/img/uploads/9198c47a-a12b-43a9-8f4b-dbcbed09e9ba",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2777",
+    "chatcartId": 2777,
+    "name": "4 hearts chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 130,
+    "image": "https://chatcart.in/api/public/img/uploads/bb45f7dd-57d7-4131-b8cd-67e1ba23f887",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2778",
+    "chatcartId": 2778,
+    "name": "White diamond pearl chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/e35d3fa2-b9d2-45f4-9890-2c4d44a05d6a",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2779",
+    "chatcartId": 2779,
+    "name": "Dual flower dangler chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 130,
+    "image": "https://chatcart.in/api/public/img/uploads/6ae3bc37-2663-473e-8be0-89bd3242dcd4",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2780",
+    "chatcartId": 2780,
+    "name": "White rose heart chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 105,
+    "image": "https://chatcart.in/api/public/img/uploads/f2d7ed3a-fdde-4ba0-9079-f4727319eab1",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2782",
+    "chatcartId": 2782,
+    "name": "Heart dangler chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 130,
+    "image": "https://chatcart.in/api/public/img/uploads/74d5b045-bc07-40bb-94c7-7137f4ef8d37",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2783",
+    "chatcartId": 2783,
+    "name": "Clover diamond chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/c200d5cf-d331-4a1e-976f-4c7ae414419b",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2784",
+    "chatcartId": 2784,
+    "name": "Evil eye pink stone chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 115,
+    "image": "https://chatcart.in/api/public/img/uploads/46bc5325-ad8a-4e1e-833b-1b1a6aea0558",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2785",
+    "chatcartId": 2785,
+    "name": "Dainty diamond heart chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 90,
+    "image": "https://chatcart.in/api/public/img/uploads/d82e8561-4cb7-4c7d-8b97-8d553c822871",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2786",
+    "chatcartId": 2786,
+    "name": "Purple petals chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 110,
+    "image": "https://chatcart.in/api/public/img/uploads/74553319-0581-43fc-817c-f01769abc763",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2787",
+    "chatcartId": 2787,
+    "name": "White multi flower chain",
+    "category": "pendants",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 115,
+    "image": "https://chatcart.in/api/public/img/uploads/a753ea13-aaee-4fbf-993b-f5616cc2b2dc",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2792",
+    "chatcartId": 2792,
+    "name": "Chain Bracelet - 04",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 80,
+    "image": "https://chatcart.in/api/public/img/uploads/30d68e68-3923-4c00-9cfa-034a54bf2cea",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2794",
+    "chatcartId": 2794,
+    "name": "Chain Bracelet - 06",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 80,
+    "image": "https://chatcart.in/api/public/img/uploads/0c50529a-91ef-475e-ad2a-e541baed3c24",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2795",
+    "chatcartId": 2795,
+    "name": "Chain Bracelet - 07",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 80,
+    "image": "https://chatcart.in/api/public/img/uploads/925c3d64-281f-459e-9ea9-5d6492929e73",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2797",
+    "chatcartId": 2797,
+    "name": "Chain Bracelet - 09",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 80,
+    "image": "https://chatcart.in/api/public/img/uploads/a9b039fb-0a0a-4a95-a6f7-5ff7d91392eb",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2798",
+    "chatcartId": 2798,
+    "name": "Chain Bracelet - 10",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 80,
+    "image": "https://chatcart.in/api/public/img/uploads/d88569c0-0f0b-491c-b344-ff74bdb38333",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2799",
+    "chatcartId": 2799,
+    "name": "Chain Bracelet - 11",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 80,
+    "image": "https://chatcart.in/api/public/img/uploads/bf916035-f0fd-4069-a69d-8ef1b1fe3a16",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2800",
+    "chatcartId": 2800,
+    "name": "Chain Bracelet - 12",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 80,
+    "image": "https://chatcart.in/api/public/img/uploads/36a33de8-9eab-4ac3-8102-0c7d2521e221",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2801",
+    "chatcartId": 2801,
+    "name": "Chain Bracelet - 13",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 80,
+    "image": "https://chatcart.in/api/public/img/uploads/bef97020-7bf3-476e-89cd-f688d8b2e8c0",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2802",
+    "chatcartId": 2802,
+    "name": "Chain Bracelet - 14",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 80,
+    "image": "https://chatcart.in/api/public/img/uploads/40d23423-8a0b-4c9d-9e40-8c8172cc63c5",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2804",
+    "chatcartId": 2804,
+    "name": "Chain Bracelet - 16",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 80,
+    "image": "https://chatcart.in/api/public/img/uploads/0785d9e4-677b-444b-bf18-ec3a3848596f",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2805",
+    "chatcartId": 2805,
+    "name": "Chain Bracelet - 17",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 80,
+    "image": "https://chatcart.in/api/public/img/uploads/33a14e28-0ac5-4ae0-9200-4f5512efaa37",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2806",
+    "chatcartId": 2806,
+    "name": "Chain Bracelet - 18",
+    "category": "bracelets-kada",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 80,
+    "image": "https://chatcart.in/api/public/img/uploads/01522d4f-9a4a-4cdb-92be-2b06576c8508",
+    "tags": [
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2623",
+    "chatcartId": 2623,
+    "name": "Dainty flower earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 22,
+    "image": "https://chatcart.in/api/public/img/uploads/9ab10157-6b08-41ff-8f57-ae337c8e106f",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2808",
+    "chatcartId": 2808,
+    "name": "Ring box 2 (18 pcs full box)",
+    "category": "rings",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 1170,
+    "image": "https://chatcart.in/api/public/img/uploads/5dddab92-0293-43b7-b55e-9668e75122b8",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2895",
+    "chatcartId": 2895,
+    "name": "SS hoop - 31",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/a606c590-e85b-48de-86bb-866dd81928bc",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2812",
+    "chatcartId": 2812,
+    "name": "Ring box 6 (18 pcs full box)",
+    "category": "rings",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 1170,
+    "image": "https://chatcart.in/api/public/img/uploads/fff4ca9a-7f4d-4ead-b607-5011f74bfecf",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2819",
+    "chatcartId": 2819,
+    "name": "Mangalsutra Design - 35",
     "category": "necklaces-chains",
     "material": "316l-stainless-steel",
     "materialLabel": "316L Stainless Steel",
-    "wholesalePrice": 95,
-    "mrp": 899,
-    "image": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?auto=format&fit=crop&w=600&q=80",
-    "tags": ["trending", "layered", "under-99"],
-    "stock": "Ready Stock (500+ pcs)"
+    "materialShort": "316L",
+    "wholesalePrice": 110,
+    "image": "https://chatcart.in/api/public/img/uploads/9ff65256-c7f3-4227-ab5d-00e5b71a671e",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
   },
   {
-    "sku": "AG-NCK-03",
-    "name": "2-in-1 Layered Celestial Choker & Coin",
+    "sku": "AG-2818",
+    "chatcartId": 2818,
+    "name": "Mangalsutra Design - 34",
     "category": "necklaces-chains",
-    "material": "waterproof-korean",
-    "materialLabel": "Korean Tech Alloy + PVD",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
     "wholesalePrice": 125,
-    "mrp": 1199,
-    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=600&q=80",
-    "tags": ["korean-minimalist", "layered", "high-margin"],
-    "stock": "Ready Stock (300+ pcs)"
+    "image": "https://chatcart.in/api/public/img/uploads/5a86ee51-4546-4ee0-b58d-1d1276a24e47",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
   },
   {
-    "sku": "AG-EAR-01",
-    "name": "Chunky Teardrop Dupe Hoops (Waterdrop)",
-    "category": "earrings-hoops",
+    "sku": "AG-2826",
+    "chatcartId": 2826,
+    "name": "Mangalsutra Design - 42",
+    "category": "necklaces-chains",
     "material": "316l-stainless-steel",
-    "materialLabel": "Hollow 316L Steel (Featherlight)",
-    "wholesalePrice": 75,
-    "mrp": 799,
-    "image": "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=600&q=80",
-    "tags": ["bottega-dupe", "viral-reels", "under-99"],
-    "stock": "Ready Stock (1200+ pcs)"
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/6bf9ed81-4240-43a4-8cfe-b953570a9d5e",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
   },
   {
-    "sku": "AG-EAR-02",
-    "name": "Mini Pavé CZ Huggies (Waterproof)",
-    "category": "earrings-hoops",
-    "material": "18k-gold-pvd-coated",
-    "materialLabel": "18K PVD + CZ Stones",
-    "wholesalePrice": 49,
-    "mrp": 499,
-    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=600&q=80",
-    "tags": ["under-49", "daily-wear", "sleep-in"],
-    "stock": "Ready Stock (900+ pcs)"
-  },
-  {
-    "sku": "AG-EAR-03",
-    "name": "Twisted Cable Oval Hoop Earrings",
-    "category": "earrings-hoops",
+    "sku": "AG-2821",
+    "chatcartId": 2821,
+    "name": "Mangalsutra Design - 37",
+    "category": "necklaces-chains",
     "material": "316l-stainless-steel",
-    "materialLabel": "316L Surgical Steel",
-    "wholesalePrice": 65,
-    "mrp": 649,
-    "image": "https://images.unsplash.com/photo-1629224316810-9d8805b95e76?auto=format&fit=crop&w=600&q=80",
-    "tags": ["aesthetic", "under-99", "waterproof"],
-    "stock": "Ready Stock (450+ pcs)"
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/7c7a3e31-eec7-4531-a3c1-88611cdc47a9",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
   },
   {
-    "sku": "AG-BRC-01",
-    "name": "Roman Numeral Bangle with Cubic Crystals",
-    "category": "bracelets-kada",
+    "sku": "AG-2824",
+    "chatcartId": 2824,
+    "name": "Mangalsutra Design - 40",
+    "category": "necklaces-chains",
     "material": "316l-stainless-steel",
-    "materialLabel": "316L Titanium Steel + 18K PVD",
-    "wholesalePrice": 129,
-    "mrp": 1299,
-    "image": "https://images.unsplash.com/photo-1611591475871-34f71a9b407b?auto=format&fit=crop&w=600&q=80",
-    "tags": ["luxury-cuff", "bestseller", "hinge-closure"],
-    "stock": "Ready Stock (700+ pcs)"
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/d76c4663-6f32-44b8-808c-67464e44ca7b",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
   },
   {
-    "sku": "AG-BRC-02",
-    "name": "Waterproof CZ Tennis Bracelet (4mm)",
-    "category": "bracelets-kada",
-    "material": "18k-gold-pvd-coated",
-    "materialLabel": "18K PVD + AAA Prong CZ",
-    "wholesalePrice": 149,
-    "mrp": 1499,
-    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=600&q=80",
-    "tags": ["tennis-sparkle", "luxury", "box-clasp"],
-    "stock": "Ready Stock (350+ pcs)"
-  },
-  {
-    "sku": "AG-BRC-03",
-    "name": "Twisted Minimalist Kada Cuff (Unisex)",
-    "category": "bracelets-kada",
+    "sku": "AG-2825",
+    "chatcartId": 2825,
+    "name": "Mangalsutra Design - 41",
+    "category": "necklaces-chains",
     "material": "316l-stainless-steel",
-    "materialLabel": "Solid 316L Steel",
-    "wholesalePrice": 99,
-    "mrp": 899,
-    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=600&q=80",
-    "tags": ["under-99", "unisex", "kada"],
-    "stock": "Ready Stock (500+ pcs)"
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/ff462fbb-5169-4e00-84d9-7609a06f5a6a",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
   },
   {
-    "sku": "AG-PND-01",
-    "name": "Embossed Zodiac / Constellation Medallion",
-    "category": "pendants",
-    "material": "18k-gold-pvd-coated",
-    "materialLabel": "18K Vacuum Gold PVD",
-    "wholesalePrice": 69,
-    "mrp": 699,
-    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=600&q=80",
-    "tags": ["zodiac", "medallion", "under-99"],
-    "stock": "Ready Stock (400+ pcs)"
-  },
-  {
-    "sku": "AG-PND-02",
-    "name": "Solitaire Emerald Green Cushion Pendant",
-    "category": "pendants",
+    "sku": "AG-2822",
+    "chatcartId": 2822,
+    "name": "Mangalsutra Design - 38",
+    "category": "necklaces-chains",
     "material": "316l-stainless-steel",
-    "materialLabel": "316L Steel + Nano Emerald Gem",
-    "wholesalePrice": 79,
-    "mrp": 799,
-    "image": "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?auto=format&fit=crop&w=600&q=80",
-    "tags": ["gemstone", "under-99", "waterproof"],
-    "stock": "Ready Stock (320+ pcs)"
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/917d4347-994f-4be3-b35e-e7f00b4af215",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
   },
   {
-    "sku": "AG-KRN-01",
-    "name": "Asymmetric Pearl & Gold Chain Choker",
+    "sku": "AG-2828",
+    "chatcartId": 2828,
+    "name": "Mangalsutra Design - 44",
+    "category": "necklaces-chains",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/2295e5c9-f6ab-4c34-b0b4-ae46f9beb561",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2827",
+    "chatcartId": 2827,
+    "name": "Mangalsutra Design - 43",
+    "category": "necklaces-chains",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/66073a39-dd51-430e-bdca-1fd1fc6af7ea",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2829",
+    "chatcartId": 2829,
+    "name": "Mangalsutra Design - 45",
+    "category": "necklaces-chains",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/4a9f4f1e-b975-447a-9147-3c45b4447b2e",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2830",
+    "chatcartId": 2830,
+    "name": "Mangalsutra Design - 46",
+    "category": "necklaces-chains",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/a7dd197b-d231-411a-a508-815462146650",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2831",
+    "chatcartId": 2831,
+    "name": "Mangalsutra Design - 47",
+    "category": "necklaces-chains",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/1372d8a1-36fe-4f1c-9814-592877440195",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2832",
+    "chatcartId": 2832,
+    "name": "Mangalsutra Design - 48",
+    "category": "necklaces-chains",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/ffda3fcb-1116-445f-a4c4-71421331337a",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2834",
+    "chatcartId": 2834,
+    "name": "Mangalsutra Design - 50",
+    "category": "necklaces-chains",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/eb04cc74-c57d-45d3-a577-54234245b0ad",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2850",
+    "chatcartId": 2850,
+    "name": "Cute mini heart earrings",
     "category": "korean-minimalist",
     "material": "waterproof-korean",
-    "materialLabel": "Freshwater Shell Pearl + Steel",
-    "wholesalePrice": 85,
-    "mrp": 899,
-    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=600&q=80",
-    "tags": ["korean-viral", "pearl", "under-99"],
-    "stock": "Ready Stock (600+ pcs)"
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 15,
+    "image": "https://chatcart.in/api/public/img/uploads/ca4a5337-ff79-4f0b-8803-d8ebaf34b910",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
   },
   {
-    "sku": "AG-KRN-02",
-    "name": "Dainty Bowknot CZ Studs & Dangle",
+    "sku": "AG-2836",
+    "chatcartId": 2836,
+    "name": "Mangalsutra Design - 52",
+    "category": "necklaces-chains",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 100,
+    "image": "https://chatcart.in/api/public/img/uploads/4733f643-ac37-413d-b05a-8b9d49dc3c1c",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2849",
+    "chatcartId": 2849,
+    "name": "Diamond cross earrings",
     "category": "korean-minimalist",
     "material": "waterproof-korean",
-    "materialLabel": "Korean Micro-Alloy Steel",
-    "wholesalePrice": 52,
-    "mrp": 549,
-    "image": "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=600&q=80",
-    "tags": ["coquette", "korean-aesthetic", "under-99"],
-    "stock": "Ready Stock (400+ pcs)"
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 19,
+    "image": "https://chatcart.in/api/public/img/uploads/69938016-fd39-4ab6-9d67-12618d0ee968",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
   },
   {
-    "sku": "AG-MEN-01",
-    "name": "Heavy 7mm Cuban Curb Chain (22 Inch)",
-    "category": "mens-jewellery",
+    "sku": "AG-2856",
+    "chatcartId": 2856,
+    "name": "Rounded flower pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 23,
+    "image": "https://chatcart.in/api/public/img/uploads/32b73eb1-ab53-444b-8f96-3e06ba47a4bc",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2854",
+    "chatcartId": 2854,
+    "name": "Rounded pearls earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 24,
+    "image": "https://chatcart.in/api/public/img/uploads/dafbdfeb-19b9-4b7e-97e3-f69ed4bc55d5",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2599",
+    "chatcartId": 2599,
+    "name": "Ring Stack - 04",
+    "category": "rings",
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 105,
+    "image": "https://chatcart.in/api/public/img/uploads/4021b4ab-de31-488d-848c-236f879076a7",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2863",
+    "chatcartId": 2863,
+    "name": "Assorted Rings Box - Pack of 100",
+    "category": "rings",
     "material": "316l-stainless-steel",
-    "materialLabel": "Heavy 316L Surgical Steel",
-    "wholesalePrice": 125,
-    "mrp": 1299,
-    "image": "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?auto=format&fit=crop&w=600&q=80",
-    "tags": ["mens-chain", "cuban", "sweatproof"],
-    "stock": "Ready Stock (850+ pcs)"
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 2700,
+    "image": "https://chatcart.in/api/public/img/uploads/7e2cc65b-6141-4441-a4c1-5546bdf6de86",
+    "tags": [
+      "waterproof"
+    ],
+    "stock": "In Stock"
   },
   {
-    "sku": "AG-MEN-02",
-    "name": "Matte Black Engraved Signet Ring",
-    "category": "mens-jewellery",
+    "sku": "AG-2896",
+    "chatcartId": 2896,
+    "name": "SS hoop - 32",
+    "category": "earrings-hoops",
     "material": "316l-stainless-steel",
-    "materialLabel": "316L Steel + Matte Black PVD",
-    "wholesalePrice": 59,
-    "mrp": 599,
-    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=600&q=80",
-    "tags": ["matte-black", "signet", "under-99"],
-    "stock": "Ready Stock (500+ pcs)"
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/4e534a30-5446-4abb-9f6a-41c6dbe2dc39",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
   },
   {
-    "sku": "AG-EVL-01",
-    "name": "Nazar Mother-of-Pearl Rotating Pendant",
-    "category": "evil-eye-charms",
-    "material": "18k-gold-pvd-coated",
-    "materialLabel": "Natural Shell + 18K PVD",
+    "sku": "AG-2853",
+    "chatcartId": 2853,
+    "name": "Cross pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 20,
+    "image": "https://chatcart.in/api/public/img/uploads/cee15490-733f-4175-b30e-03a96a7019a0",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-4819",
+    "chatcartId": 4819,
+    "name": "Ring Stack - 07",
+    "category": "rings",
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
     "wholesalePrice": 85,
-    "mrp": 849,
-    "image": "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?auto=format&fit=crop&w=600&q=80",
-    "tags": ["evil-eye", "mother-of-pearl", "under-99"],
-    "stock": "Ready Stock (600+ pcs)"
+    "image": "https://chatcart.in/api/public/img/uploads/60950fd2-1ee0-458c-8816-0192cbbe9b33",
+    "tags": [
+      "under-99"
+    ],
+    "stock": "In Stock"
   },
   {
-    "sku": "AG-EVL-02",
-    "name": "Dainty Blue Glass Evil Eye Link Bracelet",
-    "category": "evil-eye-charms",
+    "sku": "AG-4826",
+    "chatcartId": 4826,
+    "name": "Watch - 36",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 285,
+    "image": "https://chatcart.in/api/public/img/uploads/e6751c9d-0fa0-490b-89e0-8ec2464626fd",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-4827",
+    "chatcartId": 4827,
+    "name": "Watch - 37",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 285,
+    "image": "https://chatcart.in/api/public/img/uploads/a00a61a4-d410-49f1-aaed-7ca01db66919",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-4841",
+    "chatcartId": 4841,
+    "name": "Round circle earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 26,
+    "image": "https://chatcart.in/api/public/img/uploads/e0efd33b-c26f-48ac-8d99-f2a1b9fbeac1",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-4842",
+    "chatcartId": 4842,
+    "name": "Mini big pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 20,
+    "image": "https://chatcart.in/api/public/img/uploads/afb40316-87c3-4821-a3f8-f71b9572d20d",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1783",
+    "chatcartId": 1783,
+    "name": "Watch - 22",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 240,
+    "image": "https://chatcart.in/api/public/img/uploads/c7299f5e-862e-4bae-b09b-45a0c0006c59",
+    "tags": [],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-1946",
+    "chatcartId": 1946,
+    "name": "Model no. 103",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 34,
+    "image": "https://chatcart.in/api/public/img/uploads/317b8ccb-5a51-47f1-b61b-664ddb610815.jpg",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2602",
+    "chatcartId": 2602,
+    "name": "Enamel Triangle Earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 18,
+    "image": "https://chatcart.in/api/public/img/uploads/c68754af-af26-4fb0-98b0-5bebbab082b2",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2603",
+    "chatcartId": 2603,
+    "name": "Snail Cut Earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 26,
+    "image": "https://chatcart.in/api/public/img/uploads/6e2c529c-cc00-4230-b7b1-e627ec1f8011",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2606",
+    "chatcartId": 2606,
+    "name": "Snail pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 24,
+    "image": "https://chatcart.in/api/public/img/uploads/11c2c8f9-4c70-4767-b55a-eb943ba80099",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2608",
+    "chatcartId": 2608,
+    "name": "Mini bow earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 21,
+    "image": "https://chatcart.in/api/public/img/uploads/26437afa-4351-402e-be2c-342261011824",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2610",
+    "chatcartId": 2610,
+    "name": "Swan pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 21,
+    "image": "https://chatcart.in/api/public/img/uploads/fd806be2-26ba-411b-a502-25a2d9f8263b",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2611",
+    "chatcartId": 2611,
+    "name": "Dainty butterfly earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 23,
+    "image": "https://chatcart.in/api/public/img/uploads/d8ac40ce-68d3-40e1-a745-7ea6323eace4",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2619",
+    "chatcartId": 2619,
+    "name": "Spiral pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 21,
+    "image": "https://chatcart.in/api/public/img/uploads/b32b6073-bce0-4e02-9306-f40fe0a2d361",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2624",
+    "chatcartId": 2624,
+    "name": "A Golden pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 20,
+    "image": "https://chatcart.in/api/public/img/uploads/f05531f6-d9c9-4b59-b3af-18d0a6b5378b",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2625",
+    "chatcartId": 2625,
+    "name": "Diamond cube earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 22,
+    "image": "https://chatcart.in/api/public/img/uploads/e7bd1943-df75-4e3b-a0fa-8284e9711a61",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2627",
+    "chatcartId": 2627,
+    "name": "Tulip pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 20,
+    "image": "https://chatcart.in/api/public/img/uploads/5bcace11-ed6c-4672-8dc5-a18f9760a894",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2628",
+    "chatcartId": 2628,
+    "name": "Cute starfish earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 22,
+    "image": "https://chatcart.in/api/public/img/uploads/5d06286e-a5fa-4e52-9b43-52a8a3958e3b",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2629",
+    "chatcartId": 2629,
+    "name": "Dual heart earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 17,
+    "image": "https://chatcart.in/api/public/img/uploads/35021952-4fb4-4c79-a33a-cc6d64757c64",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2630",
+    "chatcartId": 2630,
+    "name": "White pearl bow earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 23,
+    "image": "https://chatcart.in/api/public/img/uploads/e23c879b-1d67-4bcd-a1f8-ec6a8db983ad",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2631",
+    "chatcartId": 2631,
+    "name": "A white pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 22,
+    "image": "https://chatcart.in/api/public/img/uploads/e436e7ad-ca34-48a7-8102-1207a912befe",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2637",
+    "chatcartId": 2637,
+    "name": "Mini bow earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 17,
+    "image": "https://chatcart.in/api/public/img/uploads/af6fd85e-13b7-4dab-8f95-de1f4edcd3a2",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2638",
+    "chatcartId": 2638,
+    "name": "Mini bow earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 23,
+    "image": "https://chatcart.in/api/public/img/uploads/7edfa192-6b26-4436-8d6d-eacd2d2e95e6",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2639",
+    "chatcartId": 2639,
+    "name": "Cherry earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 20,
+    "image": "https://chatcart.in/api/public/img/uploads/bf13c8d2-96a3-4b87-86b3-9b1c89799a19",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2640",
+    "chatcartId": 2640,
+    "name": "Cross pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 19,
+    "image": "https://chatcart.in/api/public/img/uploads/184f9b44-43ec-45d2-ac27-6cdf69bfd9c2",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2644",
+    "chatcartId": 2644,
+    "name": "Cute black heart earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 17,
+    "image": "https://chatcart.in/api/public/img/uploads/daa77ef0-cdcd-45aa-b428-623ed16cb5aa",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2648",
+    "chatcartId": 2648,
+    "name": "Dainty bow earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 26,
+    "image": "https://chatcart.in/api/public/img/uploads/dab60143-a9cf-4082-a3d6-6672103a723d",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2851",
+    "chatcartId": 2851,
+    "name": "Silver triangle earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 26,
+    "image": "https://chatcart.in/api/public/img/uploads/e6bbcf89-5f17-46dd-a842-272763176c5d",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2858",
+    "chatcartId": 2858,
+    "name": "Triangular pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 18,
+    "image": "https://chatcart.in/api/public/img/uploads/64814af8-063c-4ae8-a572-51ba63754313",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2859",
+    "chatcartId": 2859,
+    "name": "Multi pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 18,
+    "image": "https://chatcart.in/api/public/img/uploads/29f1689c-2044-40c0-b10b-62a95f23b19a",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2860",
+    "chatcartId": 2860,
+    "name": "Pink Tulip Pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 18,
+    "image": "https://chatcart.in/api/public/img/uploads/c7ce82b8-2f60-4740-875d-91e25577d4bd",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-4848",
+    "chatcartId": 4848,
+    "name": "Little black flower earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 20,
+    "image": "https://chatcart.in/api/public/img/uploads/63f594bc-a2d1-4ecf-adac-2f4ccc8f5178",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2475",
+    "chatcartId": 2475,
+    "name": "Hollow Heart Silver Chain",
+    "category": "pendants",
     "material": "316l-stainless-steel",
-    "materialLabel": "Murano Glass + 316L Steel",
-    "wholesalePrice": 69,
-    "mrp": 699,
-    "image": "https://images.unsplash.com/photo-1611591475871-34f71a9b407b?auto=format&fit=crop&w=600&q=80",
-    "tags": ["evil-eye-bracelet", "waterproof", "under-99"],
-    "stock": "Ready Stock (750+ pcs)"
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 45,
+    "image": "https://chatcart.in/api/public/img/uploads/8c559128-a5f2-4258-9ff6-d618146cf8a1",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2609",
+    "chatcartId": 2609,
+    "name": "Golden bow pearl earrings",
+    "category": "korean-minimalist",
+    "material": "waterproof-korean",
+    "materialLabel": "Korean Alloy",
+    "materialShort": "Korean",
+    "wholesalePrice": 22,
+    "image": "https://chatcart.in/api/public/img/uploads/5138fc3a-f19c-455c-a87e-fe5689b0447b",
+    "tags": [
+      "under-49",
+      "under-99"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-2897",
+    "chatcartId": 2897,
+    "name": "SS hoop - 33",
+    "category": "earrings-hoops",
+    "material": "316l-stainless-steel",
+    "materialLabel": "316L Stainless Steel",
+    "materialShort": "316L",
+    "wholesalePrice": 30,
+    "image": "https://chatcart.in/api/public/img/uploads/eb171905-9003-48de-be2a-7e329838196c",
+    "tags": [
+      "under-49",
+      "under-99",
+      "waterproof"
+    ],
+    "stock": "In Stock"
+  },
+  {
+    "sku": "AG-4829",
+    "chatcartId": 4829,
+    "name": "Watch - 41",
+    "category": null,
+    "material": "hypoallergenic-brass",
+    "materialLabel": "Copper",
+    "materialShort": "Copper",
+    "wholesalePrice": 240,
+    "image": "https://chatcart.in/api/public/img/uploads/3d217275-4976-4dbe-8657-349250c8a7a9",
+    "tags": [],
+    "stock": "In Stock"
   }
 ]

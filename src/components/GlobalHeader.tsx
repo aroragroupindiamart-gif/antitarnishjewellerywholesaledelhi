@@ -3,6 +3,7 @@
 import React, { useState } from "react";
 import Link from "next/link";
 import { MessageCircle, Menu, X, MapPin, ChevronDown, Building } from "lucide-react";
+import storeData from "@/data/store.json";
 
 export default function GlobalHeader() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -43,9 +44,11 @@ export default function GlobalHeader() {
         <div className="flex items-center justify-between h-16 sm:h-20">
           {/* Logo & Entity Signal */}
           <Link href="/" className="flex items-center gap-3 group">
-            <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-gold-400 to-gold-600 flex items-center justify-center text-emerald-950 font-black text-xl shadow-md group-hover:scale-105 transition-transform">
-              AG
-            </div>
+            <img
+              src={storeData.logoUrl}
+              alt="Arora Group Wholesale"
+              className="w-10 h-10 rounded-xl bg-white object-contain p-1 shadow-md group-hover:scale-105 transition-transform"
+            />
             <div>
               <div className="font-extrabold text-sm sm:text-base tracking-tight leading-tight text-white flex items-center gap-1.5">
                 <span>Arora Group</span>

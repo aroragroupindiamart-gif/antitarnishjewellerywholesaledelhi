@@ -3,7 +3,6 @@ import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import Link from "next/link";
 import HeroSection from "@/components/HeroSection";
-import PriceTierGrid from "@/components/PriceTierGrid";
 import MarketComparisonBox from "@/components/MarketComparisonBox";
 import ProductCatalogFeed from "@/components/ProductCatalogFeed";
 import ShowroomVideoEmbed from "@/components/ShowroomVideoEmbed";
@@ -114,17 +113,6 @@ export default function ProgrammaticWholesalePage({ params }: PageProps) {
         location={page.targetEntity}
         basePrice={page.pricing.tier1.price.replace("₹", "")}
       />
-
-      {/* Block B: Live Wholesale Pricing Table (Unique Data) */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <PriceTierGrid
-          categoryName={`${page.categoryShort} (${page.targetEntity})`}
-          location={page.targetEntity}
-          tier1={page.pricing.tier1}
-          tier2={page.pricing.tier2}
-          tier3={page.pricing.tier3}
-        />
-      </section>
 
       {/* Block C: Market Reality Check / Material Spec / Reseller Intent Detail */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

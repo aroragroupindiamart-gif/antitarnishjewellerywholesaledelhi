@@ -53,12 +53,18 @@ export interface ResellerIntent {
 
 export interface Product {
   sku: string;
+  chatcartId?: number;
   name: string;
-  category: string;
+  // null when the real Chatcart category has no site silo (sets, armlets,
+  // body chains, anklets, watches) — homepage shows these, category pages don't.
+  category: string | null;
   material: string;
   materialLabel: string;
+  materialShort: string;
   wholesalePrice: number;
-  mrp: number;
+  // No MRP in the real Chatcart catalogue — never invent one. Present only
+  // when a real MRP is supplied.
+  mrp?: number;
   image: string;
   tags: string[];
   stock: string;
