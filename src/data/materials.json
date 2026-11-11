@@ -1,0 +1,62 @@
+[
+  {
+    "id": "316l-stainless-steel",
+    "name": "316L Surgical Stainless Steel",
+    "slug": "316l-stainless-steel",
+    "tagline": "Medical-Grade Non-Corrosive Base",
+    "description": "The gold standard in durable jewelry. Contains molybdenum to resist salt water, sweat, perfume, and chlorine without pitting or tarnishing.",
+    "grade": "ASTM F138 / ISO 5832-1 Compliant",
+    "features": [
+      "Zero nickel release - 100% hypoallergenic",
+      "Immune to rust, corrosion, and green skin discoloration",
+      "Scratch-resistant structure that retains stone prong settings",
+      "Waterproof & sweatproof for daily wear and gym workouts"
+    ],
+    "longevity": "Lifetime metal structural durability with permanent corrosion resistance"
+  },
+  {
+    "id": "18k-gold-pvd-coated",
+    "name": "18K Gold PVD Vacuum Ion Coating",
+    "slug": "18k-gold-pvd-coated",
+    "tagline": "Physical Vapor Deposition Real Gold Luster",
+    "description": "High-vacuum ion sputtering deposits genuine 18K gold atoms inside a vacuum chamber. 10x thicker and tougher than conventional electroplating.",
+    "grade": "Vacuum Chamber PVD (0.5 to 2.5 Micron Multi-Layer)",
+    "features": [
+      "Molecular-level bonding with 316L base metal",
+      "Authentic rich champagne 18K yellow gold tone",
+      "Will not flake, peel, or chip off like electroplate",
+      "Resistant to high humidity, moisture, and alcohol sprays"
+    ],
+    "longevity": "2-3+ years of daily anti-tarnish wear without noticeable luster loss"
+  },
+  {
+    "id": "waterproof-korean",
+    "name": "Sweatproof Korean Waterproof Alloy",
+    "slug": "waterproof-korean",
+    "tagline": "Dainty Aesthetic with Advanced Waterproof Seal",
+    "description": "Engineered for ultrafine, delicate Korean minimalist aesthetics. Combines titanium steel micro-links with waterproof ceramic sealants.",
+    "grade": "Korean K-Tech Anti-Oxidation Coating",
+    "features": [
+      "Ultra-lightweight featherweight comfort for layered wear",
+      "Micro-pave settings with hand-selected AAA cubic zirconia",
+      "Double electro-cataphoretic clear protective barrier",
+      "Pinterest & Instagram trending aesthetic profiles"
+    ],
+    "longevity": "1-2+ years of high-rotation fashion wear with zero green skin effect"
+  },
+  {
+    "id": "hypoallergenic-brass",
+    "name": "Hypoallergenic Demi-Fine Eco Brass",
+    "slug": "hypoallergenic-brass",
+    "tagline": "Lead-Free Nickel-Free Sculptural Brass",
+    "description": "Virgin eco-brass cast into complex sculptural, organic, and molten silhouettes, sealed with triple electro-lacquer and e-coat barrier.",
+    "grade": "Lead-Free (<0.01%) & Cadmium-Free REACH Compliant",
+    "features": [
+      "Allows intricate organic, molten, and chunky hollow silhouettes",
+      "Thick palladium protective barrier under 18K gold surface",
+      "Non-irritating for sensitive ears and necks",
+      "Lustrous mirror polish equivalent to fine solid gold"
+    ],
+    "longevity": "18+ months with proper dry-wiping care and perfume buffering"
+  }
+]

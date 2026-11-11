@@ -1,0 +1,42 @@
+[
+  {
+    "id": "under-49",
+    "name": "Under ₹49 High-Margin Fast Movers",
+    "slug": "under-49",
+    "targetPrice": "₹35 - ₹49 Wholesale",
+    "idealResale": "₹199 - ₹399 Retail",
+    "marginMultiple": "4x - 8x Markup",
+    "description": "Essential budget-friendly anti-tarnish SKUs perfect for clearance sales, combo offers, festival hampers, and high-volume impulse buys.",
+    "targetAudience": "College resellers, Meesho sellers, pop-up stalls, and entry-level Instagram pages."
+  },
+  {
+    "id": "under-99",
+    "name": "Under ₹99 Premium Trendy Bestsellers",
+    "slug": "under-99",
+    "targetPrice": "₹59 - ₹99 Wholesale",
+    "idealResale": "₹399 - ₹799 Retail",
+    "marginMultiple": "3.5x - 6x Markup",
+    "description": "The sweet spot of the anti-tarnish market. Includes thick Cuban chains, viral croissant hoops, solitaire pendants, and textured bands.",
+    "targetAudience": "Established Instagram fashion boutiques, salon displays, and Shopify stores."
+  },
+  {
+    "id": "starter-pack-mov-3000",
+    "name": "₹3,000 Low MOV Trial Starter Bundle",
+    "slug": "starter-pack-mov-3000",
+    "targetPrice": "Flat ₹3,000 Total MOV",
+    "idealResale": "₹10,000 - ₹15,000 Projected Revenue",
+    "marginMultiple": "3x - 5x Average ROI",
+    "description": "Freedom to mix and match individual items across all 8 categories with 0 item-level MOQ constraint. Pick 2 rings, 3 necklaces, 4 earrings without bulk lock-in.",
+    "targetAudience": "First-time jewellery entrepreneurs testing market demand with zero inventory risk."
+  },
+  {
+    "id": "instagram-reseller-bundle",
+    "name": "Instagram Reseller Viral Aesthetic Pack",
+    "slug": "instagram-reseller-bundle",
+    "targetPrice": "₹5,000 - ₹12,000 Curated Packs",
+    "idealResale": "₹18,000 - ₹35,000 Retail",
+    "marginMultiple": "3x - 4x Clean Markup",
+    "description": "Hand-picked viral Korean, Hailey Bieber inspired, and Parisian aesthetic pieces guaranteed to photograph beautifully for Reels and aesthetic grids.",
+    "targetAudience": "Content creators, D2C brand owners, and aesthetic jewelry influencers."
+  }
+]
