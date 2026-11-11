@@ -6,6 +6,7 @@ import HeroSection from "@/components/HeroSection";
 import PriceTierGrid from "@/components/PriceTierGrid";
 import MarketComparisonBox from "@/components/MarketComparisonBox";
 import ProductCatalogFeed from "@/components/ProductCatalogFeed";
+import ShowroomVideoEmbed from "@/components/ShowroomVideoEmbed";
 import FAQSchemaAccordion from "@/components/FAQSchemaAccordion";
 import {
   JsonLdScript,
@@ -220,6 +221,15 @@ export default function ProgrammaticWholesalePage({ params }: PageProps) {
           products={categoryProducts.length > 0 ? categoryProducts : productsData.slice(0, 8)}
           categoryName={`${page.categoryShort} (${page.targetEntity})`}
           locationName={page.targetEntity}
+        />
+      </section>
+
+      {/* Video Proof: Tagore Garden Showroom Walkthrough */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <ShowroomVideoEmbed
+          title={`Watch Our Delhi Showroom & ${page.categoryShort} Stock Verification`}
+          subtitle={`Virtual tour for buyers in ${page.targetEntity}: See our Tagore Garden warehouse, physical stock, and certified 18K vacuum PVD plating.`}
+          badge="Live Facility Video Proof"
         />
       </section>
 

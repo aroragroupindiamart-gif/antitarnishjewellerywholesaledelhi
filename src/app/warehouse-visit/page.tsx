@@ -3,6 +3,7 @@
 import React, { useState } from "react";
 import Link from "next/link";
 import { MapPin, Clock, Calendar, CheckCircle2, MessageCircle, Phone, Navigation, ArrowRight } from "lucide-react";
+import ShowroomVideoEmbed from "@/components/ShowroomVideoEmbed";
 
 export default function WarehouseVisitPage() {
   const [formData, setFormData] = useState({
@@ -48,6 +49,13 @@ Interested In: ${formData.interestedCategory}`;
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 items-start">
           {/* Left: Location & Showroom Experience */}
           <div className="lg:col-span-7 space-y-8">
+            {/* Showroom Video Tour */}
+            <ShowroomVideoEmbed
+              title="Virtual Tour: Tagore Garden Experience Showroom"
+              subtitle="Watch this walkthrough of our facility before scheduling your in-person visit."
+              badge="Showroom Video Walkthrough"
+            />
+
             <div className="bg-white rounded-3xl p-6 sm:p-8 border border-gray-200/80 shadow-md">
               <h2 className="text-xl sm:text-2xl font-black text-emerald-950 mb-4">
                 What to Expect at Our West Delhi Facility

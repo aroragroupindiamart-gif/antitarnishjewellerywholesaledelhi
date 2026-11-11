@@ -113,8 +113,20 @@ export default function HeroSection({
                 </span>
               </div>
 
+              {/* Video Player Embed right inside Hero Proof Card */}
+              <div className="relative aspect-video w-full rounded-xl overflow-hidden shadow-xl border border-emerald-700/80 bg-black mb-5">
+                <iframe
+                  src="https://www.youtube.com/embed/2J4ztUw796I?rel=0&modestbranding=1"
+                  title="Arora Group Wholesale Delhi Showroom Tour"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  allowFullScreen
+                  className="w-full h-full border-0"
+                  loading="lazy"
+                />
+              </div>
+
               {/* Trust Features Checklist */}
-              <ul className="space-y-3.5 text-xs sm:text-sm text-emerald-100">
+              <ul className="space-y-3 text-xs text-emerald-100">
                 <li className="flex items-start gap-3">
                   <CheckCircle2 className="w-4 h-4 text-gold-400 shrink-0 mt-0.5" />
                   <span>

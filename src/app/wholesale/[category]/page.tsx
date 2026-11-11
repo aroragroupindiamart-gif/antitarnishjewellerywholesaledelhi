@@ -6,6 +6,7 @@ import HeroSection from "@/components/HeroSection";
 import PriceTierGrid from "@/components/PriceTierGrid";
 import MarketComparisonBox from "@/components/MarketComparisonBox";
 import ProductCatalogFeed from "@/components/ProductCatalogFeed";
+import ShowroomVideoEmbed from "@/components/ShowroomVideoEmbed";
 import FAQSchemaAccordion from "@/components/FAQSchemaAccordion";
 import { JsonLdScript, generateWholesaleSchema, generateBreadcrumbSchema } from "@/components/SEO/JsonLd";
 import { Sparkles, MapPin, Layers, Target, ArrowRight } from "lucide-react";
@@ -130,6 +131,15 @@ export default function CategoryPillarPage({ params }: PageProps) {
           products={categoryProducts.length > 0 ? categoryProducts : productsData.slice(0, 8)}
           categoryName={cat.shortName}
           locationName="Delhi NCR"
+        />
+      </section>
+
+      {/* Video Showroom & Quality Walkthrough */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <ShowroomVideoEmbed
+          title={`Watch Our Delhi Showroom & ${cat.shortName} Live Verification`}
+          subtitle={`Take a look inside Arora Group's West Delhi warehouse, inspect our 100% 316L anti-tarnish ${cat.shortName.toLowerCase()}, and experience our 0 item MOQ buying freedom.`}
+          badge="Live Facility & Stock Video"
         />
       </section>
 

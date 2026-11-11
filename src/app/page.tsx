@@ -6,6 +6,7 @@ import HeroSection from "@/components/HeroSection";
 import PriceTierGrid from "@/components/PriceTierGrid";
 import MarketComparisonBox from "@/components/MarketComparisonBox";
 import ProductCatalogFeed from "@/components/ProductCatalogFeed";
+import ShowroomVideoEmbed from "@/components/ShowroomVideoEmbed";
 import FAQSchemaAccordion from "@/components/FAQSchemaAccordion";
 import { ShieldCheck, Sparkles, MapPin, ArrowRight, CheckCircle2, Package, Building2, Truck, RefreshCw } from "lucide-react";
 import categoriesData from "@/data/categories.json";
@@ -104,6 +105,15 @@ export default function HomePage() {
             </Link>
           ))}
         </div>
+      </section>
+
+      {/* 2.5 Showroom & Warehouse Video Walkthrough */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <ShowroomVideoEmbed
+          title="Inside Arora Group's West Delhi Warehouse & Showroom"
+          subtitle="Watch our live inventory, physical showroom in Tagore Garden Extension, and 100% 316L anti-tarnish jewellery verification before ordering."
+          badge="Live Warehouse Video Tour"
+        />
       </section>
 
       {/* 3. Market Comparison Reality Check */}

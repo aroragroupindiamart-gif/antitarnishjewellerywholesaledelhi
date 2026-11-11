@@ -163,6 +163,17 @@ export default function GlobalFooter() {
                   Book Tagore Garden Showroom Appointment
                 </Link>
               </div>
+              <div>
+                <a
+                  href="https://www.youtube.com/watch?v=2J4ztUw796I"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gold-300 font-semibold hover:underline flex items-center gap-1"
+                >
+                  <span>▶ Watch Showroom Tour Video</span>
+                  <ExternalLink className="w-3 h-3 text-gold-400" />
+                </a>
+              </div>
             </div>
           </div>
         </div>

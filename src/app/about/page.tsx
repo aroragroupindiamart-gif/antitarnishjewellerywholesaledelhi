@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import { ShieldCheck, Building2, Package, Sparkles, ExternalLink, ArrowRight, Award, Truck } from "lucide-react";
+import ShowroomVideoEmbed from "@/components/ShowroomVideoEmbed";
 
 export const metadata = {
   title: "About Arora Group Wholesale | Delhi Anti-Tarnish Jewellery Importer",
@@ -59,6 +60,15 @@ export default function AboutPage() {
               <ExternalLink className="w-4 h-4" />
             </a>
           </div>
+        </div>
+
+        {/* Virtual Showroom & Facility Video Walkthrough */}
+        <div className="mb-14">
+          <ShowroomVideoEmbed
+            title="Take a Virtual Walkthrough of Our Delhi Facility"
+            subtitle="Get an authentic behind-the-scenes look at Arora Group Wholesale's physical stock, showroom, and fulfillment process."
+            badge="Verified Warehouse Tour"
+          />
         </div>
 
         {/* Why Arora Group Exists */}

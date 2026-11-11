@@ -3,6 +3,7 @@
 import React, { useState } from "react";
 import Link from "next/link";
 import { Package, Check, ShieldCheck, Sparkles, MessageCircle, Truck, RefreshCw, ArrowRight } from "lucide-react";
+import ShowroomVideoEmbed from "@/components/ShowroomVideoEmbed";
 
 export default function SampleBoxPage() {
   const [formData, setFormData] = useState({
@@ -48,6 +49,13 @@ Pincode: ${formData.pincode || "Delhi NCR"}`;
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 items-start">
           {/* Left: What's in the box */}
           <div className="lg:col-span-7 space-y-8">
+            {/* Live Stock & Quality Video Proof */}
+            <ShowroomVideoEmbed
+              title="Watch Our Delhi Warehouse Stock & Quality Walkthrough"
+              subtitle="Inspect our physical inventory, high-shine PVD finishes, and packaging standards before ordering your sample box."
+              badge="Stock & Quality Video Proof"
+            />
+
             {/* Box Contents Card */}
             <div className="bg-white rounded-3xl p-6 sm:p-8 border border-gray-200/80 shadow-md">
               <h2 className="text-xl sm:text-2xl font-black text-emerald-950 mb-4 flex items-center gap-2">

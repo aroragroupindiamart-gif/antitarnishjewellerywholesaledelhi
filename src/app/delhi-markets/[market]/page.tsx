@@ -4,6 +4,7 @@ import { Metadata } from "next";
 import Link from "next/link";
 import MarketComparisonBox from "@/components/MarketComparisonBox";
 import ProductCatalogFeed from "@/components/ProductCatalogFeed";
+import ShowroomVideoEmbed from "@/components/ShowroomVideoEmbed";
 import FAQSchemaAccordion from "@/components/FAQSchemaAccordion";
 import {
   JsonLdScript,
@@ -185,6 +186,15 @@ export default function DelhiMarketGuidePage({ params }: PageProps) {
             ))}
           </div>
         </div>
+      </section>
+
+      {/* Video Showroom Proof */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <ShowroomVideoEmbed
+          title={`Bypass ${guide.name} Crowds: Watch Arora Group's Showroom Walkthrough`}
+          subtitle="Tour our Tagore Garden showroom, see our physical quality verification, and discover why Delhi resellers order online or pick up directly from our West Delhi hub."
+          badge="Direct Importer Showroom Tour"
+        />
       </section>
 
       {/* Direct Product Catalog Preview */}
