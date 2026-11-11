@@ -116,15 +116,9 @@ export default function AboutPage() {
             Ready to Partner with Delhi's Direct Importer?
           </h3>
           <p className="text-sm text-gray-600 mb-6 max-w-xl mx-auto">
-            Order our ₹1,499 sample box, book an appointment at our Tagore Garden facility, or chat directly on WhatsApp.
+            Book an appointment at our Tagore Garden facility, or chat directly on WhatsApp.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
-            <Link
-              href="/sample-box"
-              className="px-6 py-3.5 rounded-xl bg-gold-500 hover:bg-gold-600 text-emerald-950 font-bold text-xs uppercase tracking-wider"
-            >
-              Order Sample Box (₹1,499)
-            </Link>
             <Link
               href="/warehouse-visit"
               className="px-6 py-3.5 rounded-xl bg-emerald-950 hover:bg-emerald-900 text-white font-bold text-xs uppercase tracking-wider"

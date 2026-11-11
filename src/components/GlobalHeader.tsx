@@ -2,7 +2,7 @@
 
 import React, { useState } from "react";
 import Link from "next/link";
-import { MessageCircle, Menu, X, MapPin, ChevronDown, Sparkles, Building } from "lucide-react";
+import { MessageCircle, Menu, X, MapPin, ChevronDown, Building } from "lucide-react";
 
 export default function GlobalHeader() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -107,11 +107,6 @@ export default function GlobalHeader() {
               </div>
             </div>
 
-            <Link href="/sample-box" className="hover:text-gold-300 transition-colors flex items-center gap-1">
-              <Sparkles className="w-3.5 h-3.5 text-gold-400" />
-              <span>₹1,499 Sample Box</span>
-            </Link>
-
             <Link href="/warehouse-visit" className="hover:text-gold-300 transition-colors flex items-center gap-1">
               <MapPin className="w-3.5 h-3.5 text-gold-400" />
               <span>Showroom Visit</span>
@@ -211,14 +206,6 @@ export default function GlobalHeader() {
               </div>
             )}
           </div>
-
-          <Link
-            href="/sample-box"
-            onClick={() => setMobileMenuOpen(false)}
-            className="block py-2 text-sm font-semibold text-gold-400"
-          >
-            ₹1,499 Starter Box (15 Pcs)
-          </Link>
 
           <Link
             href="/warehouse-visit"

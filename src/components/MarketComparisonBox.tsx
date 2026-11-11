@@ -75,7 +75,7 @@ export default function MarketComparisonBox({
             </li>
             <li className="flex items-start gap-2.5">
               <XCircle className="w-4 h-4 text-red-400 shrink-0 mt-0.5" />
-              <span>No returns, zero digital tracking, zero sample box guarantee</span>
+              <span>No returns, zero digital tracking</span>
             </li>
           </ul>
         </div>

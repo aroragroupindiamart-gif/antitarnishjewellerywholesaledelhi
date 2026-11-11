@@ -15,7 +15,7 @@ export interface DripScheduleStage {
 }
 
 export const DRIP_CONFIG = {
-  // Toggle drip feeding. If false, all 150 pages appear in sitemap immediately.
+  // Toggle drip feeding. If false, all 149 pages appear in sitemap immediately.
   enabled: process.env.ENABLE_DRIP_FEED === "true" || true,
 
   // Launch reference date (YYYY-MM-DD)
@@ -25,12 +25,12 @@ export const DRIP_CONFIG = {
   defaultPacePerDay: 8,
 
   // Total pages
-  totalPages: 150,
+  totalPages: 149,
 
   // Schedule breakdown across 19 days
   schedule: [
     // Phase 1: Foundation Authority (Days 1–3)
-    { dayNumber: 1, stageName: "Core Foundation", category: "core", pageCount: 7, description: "Homepage + 6 Conversion Pages (Sample Box, Showroom Visit, About, Contact, Terms, FAQ)" },
+    { dayNumber: 1, stageName: "Core Foundation", category: "core", pageCount: 6, description: "Homepage + 5 Conversion Pages (Showroom Visit, About, Contact, Terms, FAQ)" },
     { dayNumber: 2, stageName: "Category Pillars", category: "core", pageCount: 8, description: "All 8 Category Pillar Pages (Rings, Necklaces, Hoops, Kada, Pendants, Korean, Men's, Evil Eye)" },
     { dayNumber: 3, stageName: "Delhi Market Sourcing Guides", category: "core", pageCount: 7, description: "7 Physical Market Guides (Sadar Bazar, Rui Mandi, Karol Bagh, Tagore Garden Hub, etc.)" },
 

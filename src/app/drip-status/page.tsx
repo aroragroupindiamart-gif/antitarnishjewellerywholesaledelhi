@@ -34,7 +34,7 @@ export default function DripStatusPage() {
             Automated Drip-Feeding Controller
           </h1>
           <p className="mt-3 text-sm sm:text-base text-gray-600 leading-relaxed">
-            Gradually exposes 150 programmatic pages to Googlebot across a 19-day schedule at a natural pace of <strong>~7 to 8 pages per day</strong> to avoid doorway sandbox filters.
+            Gradually exposes 149 programmatic pages to Googlebot across a 19-day schedule at a natural pace of <strong>~7 to 8 pages per day</strong> to avoid doorway sandbox filters.
           </p>
         </div>
 
@@ -66,7 +66,7 @@ export default function DripStatusPage() {
               Pages Unlocked in Sitemap
             </span>
             <div className="text-2xl font-black text-gold-600 mt-1">
-              {totalUnlockedPages} <span className="text-sm font-normal text-gray-400">/ 150 Pages</span>
+              {totalUnlockedPages} <span className="text-sm font-normal text-gray-400">/ 149 Pages</span>
             </div>
             <p className="text-[11px] text-gray-500 mt-1">{percentProgress}% of total matrix</p>
           </div>
@@ -85,7 +85,7 @@ export default function DripStatusPage() {
         {/* Progress Bar */}
         <div className="bg-white rounded-2xl p-6 border border-gray-200 shadow-sm mb-12">
           <div className="flex items-center justify-between mb-2 text-xs font-bold text-gray-700">
-            <span>Overall Indexation Progress ({totalUnlockedPages} / 150 Pages)</span>
+            <span>Overall Indexation Progress ({totalUnlockedPages} / 149 Pages)</span>
             <span className="text-emerald-700 font-extrabold">{percentProgress}%</span>
           </div>
           <div className="w-full h-3 bg-gray-100 rounded-full overflow-hidden">
@@ -97,7 +97,7 @@ export default function DripStatusPage() {
           <div className="flex items-center justify-between mt-3 text-[11px] text-gray-500">
             <span>Day 1: Foundation (7 pages)</span>
             <span>Day 11: 86 pages</span>
-            <span>Day 19: Full 150 pages</span>
+            <span>Day 19: Full 149 pages</span>
           </div>
         </div>
 
@@ -204,7 +204,7 @@ export default function DripStatusPage() {
             :
           </p>
           <ul className="space-y-2 text-xs text-emerald-200">
-            <li>• <strong>Instant 100% Launch:</strong> Set <code className="bg-emerald-900 px-1 text-white rounded">enabled: false</code> to unlock all 150 pages in sitemap immediately.</li>
+            <li>• <strong>Instant 100% Launch:</strong> Set <code className="bg-emerald-900 px-1 text-white rounded">enabled: false</code> to unlock all 149 pages in sitemap immediately.</li>
             <li>• <strong>Adjust Launch Date:</strong> Set <code className="bg-emerald-900 px-1 text-white rounded">launchDate: "YYYY-MM-DD"</code> to anchor the schedule to your exact domain launch day.</li>
             <li>• <strong>Accelerate / Slow Down:</strong> Adjust the day mapping arrays inside <code className="bg-emerald-900 px-1 text-white rounded">sitemap.ts</code>.</li>
           </ul>

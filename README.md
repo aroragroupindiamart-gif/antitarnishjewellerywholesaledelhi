@@ -21,7 +21,7 @@
 │ • Hyper-targeted Local B2B Lead Generator for Delhi NCR & North India  │
 │ • Brand Hook: "Arora Group Wholesale — Delhi Anti-Tarnish Hub"         │
 │ • Traps high-intent searches: Sadar Bazar, Rui Mandi, Karol Bagh       │
-│ • Converts traffic directly into WhatsApp leads & Sample Box orders    │
+│ • Converts traffic directly into WhatsApp leads                          │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -29,9 +29,9 @@ By anchoring this EMD directly to Arora Group Wholesale’s verified physical pr
 
 ---
 
-## 🚀 150-Page Programmatic URL Blueprint
+## 🚀 149-Page Programmatic URL Blueprint
 
-Total Pages: **150 Statically Rendered Pages** (`generateStaticParams`)
+Total Pages: **149 Statically Rendered Pages** (`generateStaticParams`)
 
 | Silo / Page Type | Route Pattern | Page Count | Target Keyword / Intent |
 | :--- | :--- | :--- | :--- |
@@ -41,7 +41,7 @@ Total Pages: **150 Statically Rendered Pages** (`generateStaticParams`)
 | **Category × Metal Specs** | `/wholesale/[category]/[material]` | 32 | 316L surgical steel, 18K PVD gold, Korean, brass |
 | **Category × Reseller Tiers**| `/wholesale/[category]/[intent]` | 32 | Under ₹49, Under ₹99, ₹3,000 MOV starter pack |
 | **Delhi Market Guides** | `/delhi-markets/[market]` | 7 | Sadar Bazar & Rui Mandi guide, Karol Bagh, etc. |
-| **Conversion Funnels** | `/sample-box`, `/warehouse-visit`, etc. | 6 | Sample box (₹1,499), showroom booking, about, contact, terms, FAQs |
+| **Conversion Funnels** | `/warehouse-visit`, etc. | 5 | Showroom booking, about, contact, terms, FAQs |
 
 ---
 
@@ -52,7 +52,6 @@ Total Pages: **150 Statically Rendered Pages** (`generateStaticParams`)
 - **Icons**: Lucide React.
 - **Conversion Triggers**:
   - Sticky floating WhatsApp button with prefilled category/location messages.
-  - ₹1,499 Sample Starter Box checkout with 100% credit on next order.
   - Tagore Garden Showroom Appointment booking.
 - **Structured Data**: JSON-LD (`WholesaleStore`, `BreadcrumbList`, `FAQPage`) on every route.
 

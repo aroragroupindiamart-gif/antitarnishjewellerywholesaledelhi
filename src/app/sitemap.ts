@@ -12,7 +12,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const sitemapEntries: MetadataRoute.Sitemap = [];
 
   // ==========================================
-  // DAY 1: CORE HOMEPAGE & CONVERSION PAGES (7 pages)
+  // DAY 1: CORE HOMEPAGE & CONVERSION PAGES (6 pages)
   // ==========================================
   if (isDayUnlocked(1, now)) {
     // 1. Homepage
@@ -23,14 +23,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1.0,
     });
 
-    // 2. 6 Core Conversion Pages
-    const corePages = ["/sample-box", "/warehouse-visit", "/about", "/contact", "/terms", "/faq"];
+    // 2. 5 Core Conversion Pages
+    const corePages = ["/warehouse-visit", "/about", "/contact", "/terms", "/faq"];
     for (const page of corePages) {
       sitemapEntries.push({
         url: `${baseUrl}${page}`,
         lastModified: now,
         changeFrequency: "weekly",
-        priority: page === "/sample-box" || page === "/warehouse-visit" ? 0.9 : 0.7,
+        priority: page === "/warehouse-visit" ? 0.9 : 0.7,
       });
     }
   }

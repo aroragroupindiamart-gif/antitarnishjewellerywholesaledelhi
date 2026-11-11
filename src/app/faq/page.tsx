@@ -28,10 +28,6 @@ export default function FAQMasterPage() {
       a: "Yes! All verified wholesale buyers gain access to our high-resolution Google Drive folder containing studio images, flat lays, model shots, and reels without any Arora Group watermarks.",
     },
     {
-      q: "How does the ₹1,499 Sample Box offer work?",
-      a: "The Starter Box contains 15 bestselling pieces (rings, necklaces, hoops, cuffs) with free express shipping. When you test the quality and subsequently place a bulk order of ₹10,000 or more, the entire ₹1,499 is credited to your invoice as a discount.",
-    },
-    {
       q: "What are the payment options for wholesale orders?",
       a: "We accept UPI (Google Pay, PhonePe, Paytm), IMPS/NEFT bank transfers, Credit/Debit cards via Razorpay/Cashfree, and Cash at our Tagore Garden showroom counter.",
     },

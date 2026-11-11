@@ -8,7 +8,7 @@ import MarketComparisonBox from "@/components/MarketComparisonBox";
 import ProductCatalogFeed from "@/components/ProductCatalogFeed";
 import ShowroomVideoEmbed from "@/components/ShowroomVideoEmbed";
 import FAQSchemaAccordion from "@/components/FAQSchemaAccordion";
-import { ShieldCheck, Sparkles, MapPin, ArrowRight, CheckCircle2, Package, Building2, Truck, RefreshCw } from "lucide-react";
+import { ShieldCheck, Sparkles, MapPin, ArrowRight, CheckCircle2, Building2, Truck, RefreshCw } from "lucide-react";
 import categoriesData from "@/data/categories.json";
 import productsData from "@/data/products.json";
 import locationsData from "@/data/locations.json";
@@ -147,39 +147,7 @@ export default function HomePage() {
         />
       </section>
 
-      {/* 6. Reseller Starter Box Feature Banner */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="bg-gradient-to-r from-gold-500 via-gold-600 to-gold-700 rounded-3xl p-8 sm:p-12 text-emerald-950 shadow-2xl relative overflow-hidden flex flex-col md:flex-row items-center justify-between gap-8">
-          <div className="max-w-2xl">
-            <div className="inline-flex items-center gap-1.5 bg-emerald-950 text-gold-300 text-xs font-bold uppercase tracking-wider px-3.5 py-1 rounded-full mb-3 shadow">
-              <Package className="w-3.5 h-3.5" />
-              Zero Risk Quality Sample Trial
-            </div>
-            <h2 className="text-2xl sm:text-4xl font-black tracking-tight text-emerald-950">
-              Get the Anti-Tarnish Starter Box for Just ₹1,499
-            </h2>
-            <p className="mt-3 text-sm sm:text-base text-emerald-950/90 font-medium leading-relaxed">
-              Receive 15 curated bestselling pieces (rings, earrings, bracelets, necklaces) with free express courier delivery. Feel the real weight, test with water and perfume, and inspect customer reactions before ordering bulk.
-            </p>
-            <div className="mt-4 flex flex-wrap gap-4 text-xs font-bold text-emerald-950">
-              <span className="flex items-center gap-1">✓ 15 Trending SKUs Included</span>
-              <span className="flex items-center gap-1">✓ Free Express Delhi NCR Delivery</span>
-              <span className="flex items-center gap-1">✓ ₹1,499 Credit on Next ₹10k Order</span>
-            </div>
-          </div>
-
-          <div className="shrink-0 flex flex-col sm:flex-row gap-3 w-full md:w-auto">
-            <Link
-              href="/sample-box"
-              className="px-8 py-4 rounded-xl bg-emerald-950 hover:bg-emerald-900 text-white font-extrabold text-xs uppercase tracking-wider text-center shadow-xl transition-all"
-            >
-              Order Sample Box (₹1,499)
-            </Link>
-          </div>
-        </div>
-      </section>
-
-      {/* 7. Delhi Wholesale Market Hubs Section */}
+      {/* 6. Delhi Wholesale Market Hubs Section */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center max-w-2xl mx-auto mb-10">
           <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider bg-emerald-50 text-emerald-800 border border-emerald-200 mb-2">

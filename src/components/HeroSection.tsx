@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import { MessageCircle, ShieldCheck, Sparkles, MapPin, Package, ArrowRight, CheckCircle2 } from "lucide-react";
+import { MessageCircle, ShieldCheck, Sparkles, MapPin, ArrowRight, CheckCircle2 } from "lucide-react";
 
 interface HeroSectionProps {
   h1: string;
@@ -73,13 +73,6 @@ export default function HeroSection({
                 <span>Instant WhatsApp Catalog & Stock</span>
               </a>
 
-              <Link
-                href="/sample-box"
-                className="px-6 py-4 rounded-xl font-bold text-xs uppercase tracking-wider bg-white/10 hover:bg-white/15 text-white border border-white/20 flex items-center justify-center gap-2 transition-all"
-              >
-                <Package className="w-4 h-4 text-gold-400" />
-                <span>Get ₹1,499 Starter Box (15 Pcs)</span>
-              </Link>
             </div>
 
             {/* Link to Parent Entity */}

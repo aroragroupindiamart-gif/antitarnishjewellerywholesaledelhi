@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import { MapPin, Phone, Mail, ShieldCheck, ExternalLink, Clock, Sparkles } from "lucide-react";
+import { MapPin, Phone, Mail, ShieldCheck, ExternalLink, Clock } from "lucide-react";
 
 export default function GlobalFooter() {
   const categories = [
@@ -152,12 +152,6 @@ export default function GlobalFooter() {
             </ul>
 
             <div className="pt-2 border-t border-emerald-800/80 space-y-2 text-xs">
-              <div>
-                <Link href="/sample-box" className="text-gold-400 font-bold hover:underline flex items-center gap-1">
-                  <Sparkles className="w-3.5 h-3.5" />
-                  <span>Order ₹1,499 Sample Starter Box</span>
-                </Link>
-              </div>
               <div>
                 <Link href="/warehouse-visit" className="text-emerald-200 hover:underline">
                   Book Tagore Garden Showroom Appointment
