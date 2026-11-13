@@ -591,22 +591,6 @@
     "stock": "In Stock"
   },
   {
-    "sku": "AG-2491",
-    "chatcartId": 2491,
-    "name": "Silver heart chain",
-    "category": "necklaces-chains",
-    "material": "waterproof-korean",
-    "materialLabel": "Korean Alloy",
-    "materialShort": "Korean",
-    "wholesalePrice": 25,
-    "image": "https://chatcart.in/api/public/img/uploads/1edbb332-ec70-4d8b-b721-708eb88f5235",
-    "tags": [
-      "under-49",
-      "under-99"
-    ],
-    "stock": "In Stock"
-  },
-  {
     "sku": "AG-2474",
     "chatcartId": 2474,
     "name": "Waterdrop chain",
@@ -846,23 +830,6 @@
     "wholesalePrice": 90,
     "image": "https://chatcart.in/api/public/img/uploads/32815ea8-0c2f-4d98-a5c8-d7ac2a286ef9",
     "tags": [
-      "under-99",
-      "waterproof"
-    ],
-    "stock": "In Stock"
-  },
-  {
-    "sku": "AG-2867",
-    "chatcartId": 2867,
-    "name": "SS hoop - 03",
-    "category": "earrings-hoops",
-    "material": "316l-stainless-steel",
-    "materialLabel": "316L Stainless Steel",
-    "materialShort": "316L",
-    "wholesalePrice": 35,
-    "image": "https://chatcart.in/api/public/img/uploads/a0ff6b67-aed2-4756-801d-9aaec355f481",
-    "tags": [
-      "under-49",
       "under-99",
       "waterproof"
     ],
@@ -2007,23 +1974,6 @@
     "stock": "In Stock"
   },
   {
-    "sku": "AG-2884",
-    "chatcartId": 2884,
-    "name": "SS hoop - 20",
-    "category": "earrings-hoops",
-    "material": "316l-stainless-steel",
-    "materialLabel": "316L Stainless Steel",
-    "materialShort": "316L",
-    "wholesalePrice": 35,
-    "image": "https://chatcart.in/api/public/img/uploads/74171537-ca49-47a9-9317-296452d89817",
-    "tags": [
-      "under-49",
-      "under-99",
-      "waterproof"
-    ],
-    "stock": "In Stock"
-  },
-  {
     "sku": "AG-2923",
     "chatcartId": 2923,
     "name": "SS hoop - 59",
@@ -2950,21 +2900,6 @@
     "stock": "In Stock"
   },
   {
-    "sku": "AG-2771",
-    "chatcartId": 2771,
-    "name": "Pink rose heart chain",
-    "category": "pendants",
-    "material": "316l-stainless-steel",
-    "materialLabel": "316L Stainless Steel",
-    "materialShort": "316L",
-    "wholesalePrice": 104,
-    "image": "https://chatcart.in/api/public/img/uploads/0da9d594-51a0-4381-bfe7-726f900f99a9",
-    "tags": [
-      "waterproof"
-    ],
-    "stock": "In Stock"
-  },
-  {
     "sku": "AG-2604",
     "chatcartId": 2604,
     "name": "Floral pearl earrings",
@@ -3156,23 +3091,6 @@
     "wholesalePrice": 110,
     "image": "https://chatcart.in/api/public/img/uploads/7ca1b1ed-39f2-4e42-9dea-64b44cf315c2",
     "tags": [
-      "waterproof"
-    ],
-    "stock": "In Stock"
-  },
-  {
-    "sku": "AG-2894",
-    "chatcartId": 2894,
-    "name": "SS hoop - 30",
-    "category": "earrings-hoops",
-    "material": "316l-stainless-steel",
-    "materialLabel": "316L Stainless Steel",
-    "materialShort": "316L",
-    "wholesalePrice": 35,
-    "image": "https://chatcart.in/api/public/img/uploads/5067be86-5972-4948-ae1b-3d6426c974dd",
-    "tags": [
-      "under-49",
-      "under-99",
       "waterproof"
     ],
     "stock": "In Stock"
@@ -3968,21 +3886,6 @@
     "materialShort": "316L",
     "wholesalePrice": 100,
     "image": "https://chatcart.in/api/public/img/uploads/d76c4663-6f32-44b8-808c-67464e44ca7b",
-    "tags": [
-      "waterproof"
-    ],
-    "stock": "In Stock"
-  },
-  {
-    "sku": "AG-2825",
-    "chatcartId": 2825,
-    "name": "Mangalsutra Design - 41",
-    "category": "necklaces-chains",
-    "material": "316l-stainless-steel",
-    "materialLabel": "316L Stainless Steel",
-    "materialShort": "316L",
-    "wholesalePrice": 100,
-    "image": "https://chatcart.in/api/public/img/uploads/ff462fbb-5169-4e00-84d9-7609a06f5a6a",
     "tags": [
       "waterproof"
     ],

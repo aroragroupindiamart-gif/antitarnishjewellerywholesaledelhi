@@ -23,14 +23,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1.0,
     });
 
-    // 2. 5 Core Conversion Pages
-    const corePages = ["/warehouse-visit", "/about", "/contact", "/terms", "/faq"];
+    // 2. Core Conversion & Hub Pages
+    const corePages = ["/wholesale", "/delhi-markets", "/warehouse-visit", "/about", "/contact", "/terms", "/faq"];
     for (const page of corePages) {
       sitemapEntries.push({
         url: `${baseUrl}${page}`,
         lastModified: now,
         changeFrequency: "weekly",
-        priority: page === "/warehouse-visit" ? 0.9 : 0.7,
+        priority: page === "/wholesale" || page === "/delhi-markets" || page === "/warehouse-visit" ? 0.9 : 0.7,
       });
     }
   }
